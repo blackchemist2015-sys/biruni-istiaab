@@ -791,5 +791,95 @@
    "ص is the projection from ع of the star (the same head as the first way)",
    true
   ]
+ ],
+ "79": [
+  [
+   "the four circles touch each other and the circle ح ط ك ل (r = (√2 − 1) · R)",
+   true
+  ],
+  [
+   "59 teeth: the wheel turns once in 59 days = two months of 30 and 29 days",
+   true
+  ]
+ ],
+ "80": [
+  [
+   "wheels 7 and 59 mesh: centre distance 33.00 = sum of pitch radii 33.0",
+   true
+  ],
+  [
+   "wheels 19 and 59 mesh: centre distance 39.00 = sum of pitch radii 39.0",
+   true
+  ],
+  [
+   "wheels 24 and 48 mesh: centre distance 36.00 = sum of pitch radii 36.0",
+   true
+  ],
+  [
+   "wheels 10 and 40 mesh: centre distance 25.00 = sum of pitch radii 25.0",
+   true
+  ],
+  [
+   "periods: 7th wheel 59 days, moon wheel 28 days, sun wheel 366.4 days",
+   true
+  ]
+ ],
+ "81": [
+  [
+   "circle ك (r = R/2√3) touches ه ز",
+   true
+  ],
+  [
+   "circles ك and ط touch each other",
+   true
+  ],
+  [
+   "ه ط = ه م",
+   true
+  ],
+  [
+   "ل (at 240°) lies on circle م",
+   true
+  ]
+ ],
+ "82": [
+  [
+   "ه ز touches circle ك (tangent from ه)",
+   true
+  ]
+ ],
+ "83": [
+  [
+   "arc ر ك ح: cos of its half-angle seen from ه is 7/8",
+   true
+  ]
+ ],
+ "84": [
+  [
+   "the equator ح ط ك م has radius tan((85° − ε)/2) (0.593953 ≈ 0.593953)",
+   true
+  ],
+  [
+   "ص (pole of the ecliptic) is the zenith of the horizon ك ل م",
+   true
+  ],
+  [
+   "ع lies on ه د produced at ه ع = ه ك · cot ε (1.36058 ≈ 1.36058)",
+   true
+  ],
+  [
+   "the fifth almucantar of depression touches ا ب ج د at ب",
+   true
+  ]
+ ],
+ "85": [
+  [
+   "ر ط has the radius r²/R of the day-circle of declination ε + 5 (0.352781 ≈ 0.352781)",
+   true
+  ],
+  [
+   "the horizon passes through the west point م of the equator",
+   true
+  ]
  ]
 }
