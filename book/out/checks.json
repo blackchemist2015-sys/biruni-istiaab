@@ -642,7 +642,15 @@
    true
   ],
   [
-   "the angles found agree with the cone of the compass (centre 44.47°, head 31.46°)",
+   "the circle on و ص passes through ع",
+   true
+  ],
+  [
+   "ب س satisfies s(s − 2(p − L²/a)) = 4L²",
+   true
+  ],
+  [
+   "the centre angle ع س ق = 44.47° agrees with the cone of the compass",
    true
   ]
  ],
@@ -668,7 +676,23 @@
  ],
  "70": [
   [
-   "ب ك · ط ك = ج ح² = 4L² (corrected radius)",
+   "ج ط = 2L²/a (1.62 ≈ 1.62)",
+   true
+  ],
+  [
+   "ج ح = 2L (1.8 ≈ 1.8)",
+   true
+  ],
+  [
+   "ب ك · ط ك = ج ح² (Euclid II.6, corrected radius)",
+   true
+  ],
+  [
+   "the circle on م س passes through ل",
+   true
+  ],
+  [
+   "sin²(centre angle ل ك ع) = ب ج / ب ك (40.94°)",
    true
   ]
  ],
@@ -712,7 +736,15 @@
    true
   ],
   [
+   "الأولى (الربع الشرقي الجنوبي): the image passes through س (the node lies on the equator)",
+   true
+  ],
+  [
    "الثانية (الربع الغربي الجنوبي): the angle at ع gives a ellipse",
+   true
+  ],
+  [
+   "الثانية (الربع الغربي الجنوبي): the image passes through س (the node lies on the equator)",
    true
   ],
   [
@@ -726,13 +758,25 @@
    true
   ],
   [
+   "الأولى: the image passes through س (the node lies on the equator)",
+   true
+  ],
+  [
    "الثانية: the angle at ع gives a parabola",
+   true
+  ],
+  [
+   "الثانية: the image passes through س (the node lies on the equator)",
    true
   ]
  ],
  "76": [
   [
    "الأولى: the angle at ع gives a hyperbola",
+   true
+  ],
+  [
+   "الأولى: the image passes through س (the node lies on the equator)",
    true
   ]
  ],

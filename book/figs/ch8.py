@@ -200,13 +200,17 @@ def ordinate_fig(F, cx, Z, T, e, frac, title, meridian_circle, extra_lbl=True):
     P3 = (A[0], A[1], h)
     img = gproj.proj(P3, e)
     F.check(f"{title}: ف is the exact image of the circle point over ا", abs(img[0] - L[1]) < 1e-9 and abs(img[1] - lf) < 1e-9)
-    plate_curve(F_shift(F, cx), Z, T, e, clip=2.2)
+    Pp = line_inter(Z, T, O, (O[0], 1))
+    if Pp and abs(Pp[1]) < 2.4:
+        F.line(S(O), S(Pp), "con"); F.line(S(Z), S(Pp), "redthin")
+        F.lab(S(Pp), "ص", (-.07, .0), size=11)
+    plate_curve(F_shift(F, cx), Z, T, e, clip=1.8)
     for p, s, d in [(Z, "ز", pol(.08, ang(Z))), (T, "ط", pol(.08, ang(T))), (O, "ع", (0, -.08)), (Ss, "س", (-.07, .03)),
                     (B, "ب", (-.07, .0)), (A, "ا", (.03, -.07)), (G, "ج", (.05, .05)), (L, "ل", (-.07, .0)),
                     (Dp, "د", (.05, .05)), (Np, "ن", (.0, .07)), (Fp, "ف", (.07, .0)), (K_, "ك", (-.08, 0)),
                     (M_, "م", (.08, 0)), ((0, 0), "ه", (.05, -.07))]:
         F.lab(S(p), s, d, size=11)
-    F.text(S((0.45, -0.75)), title, size=12)
+    F.text(S((0.0, -1.25)), title, size=12)
     return gproj.kind(Z, T, e)
 
 class F_shift:
@@ -413,40 +417,63 @@ def cone_angles_ellipse(a, p, L):
     return alpha, beta
 
 def fig67(out, a=1.0, p=0.3, L=0.7):
-    F = Fig(7.6, 5.6)
-    A = (0, 0); Bx = 2 * a
-    B = (-Bx, 0)                       # ا on the right, ب on the left as drawn
-    G = (B[0] + 2 * p, 0)
-    Dd = (0, a * a / L); He = (0, a * a / L + L)
-    R = line_inter(He, (He[0] + (B[0] - Dd[0]), He[1] + (B[1] - Dd[1])), A, B)
-    F.line(B, (0.05, 0), "con"); F.line(A, (0, He[1] + 0.05), "con"); F.line(Dd, B, "con"); F.line(He, R, "con")
-    br = dist(B, R)
-    F.close_enough("ب ر = 2L²/a", br, 2 * L * L / a)
+    F = Fig(8.4, 6.0)
+    A = (0.0, 0.0); B = (-2 * a, 0.0); G = (B[0] + 2 * p, 0.0)
+    dd = a * a / L
+    Dd = (0.0, dd); He = (0.0, dd + L)
+    R = (B[0] - 2 * L * L / a, 0.0)
     ag = dist(A, G)
-    T = (B[0] - ag, 0); Hh = (R[0] - ag, 0)
-    for c0, c1 in ((A, T), (A, Hh)):
-        cc = mid(c0, c1); F.arc(cc, dist(c0, c1) / 2, 0, 180, "con", lw=0.7)
+    T = (B[0] - ag, 0.0); H = (R[0] - ag, 0.0)
+    F.line((H[0] - 0.05, 0), (0.05, 0), "con")
+    F.line(Dd, B, "con"); F.line(He, R, "con")
+    F.close_enough("ب ر = 2L²/a", dist(B, R), 2 * L * L / a)
+    cT = mid(A, T); rT = dist(A, T) / 2; cH = mid(A, H); rH = dist(A, H) / 2
+    F.arc(cT, rT, 0, 180, "con", lw=0.7); F.arc(cH, rH, 0, 180, "con", lw=0.7)
+    Yh = math.sqrt(rT * rT - (B[0] - cT[0]) ** 2); Yp = (B[0], Yh)
+    F.line(B, Yp, "con")
+    M = cH
+    Kx = M[0] + Yh; K = (Kx, 0.0)
+    Lh = math.sqrt(rH * rH - (Kx - cH[0]) ** 2); Lp = (Kx, Lh)
+    F.line(K, Lp, "con")
+    S = (M[0] + Lh, 0.0)
+    cS = mid(S, B); rS = dist(S, B) / 2
+    F.arc(cS, rS, 0, 180, "con", lw=0.8)
+    Ah = math.sqrt(rS * rS - (G[0] - cS[0]) ** 2); Ain = (G[0], Ah)
+    F.line(G, Ain, "con")
+    W = line_inter(B, Ain, (0, 0), (0, 1)); Pp = line_inter(Ain, S, (0, 0), (0, 1))
+    F.line(B, W, "con"); F.line(Ain, Pp, "con")
+    ymax = max(He[1], W[1]) + 0.1; ymin = min(0, Pp[1]) - 0.1
+    F.line((0, ymin), (0, ymax), "con")
+    cc = mid(W, Pp); rr = dist(W, Pp) / 2
+    F.circle(cc, rr, "con", lw=0.7)
+    Q = [q for q in line_circle((-5, 0), (5, 0), cc, rr) if q[0] < 0][0]
+    F.check("the circle on و ص passes through ع", abs(dist(cc, Ain) - rr) < 1e-9)
+    bs = dist(B, S)
+    F.check("ب س satisfies s(s − 2(p − L²/a)) = 4L²", abs(bs * (bs - 2 * (p - L * L / a)) - 4 * L * L) < 1e-9)
+    head = abs(ang(S, Ain) - ang(Q, Ain)); centre = abs(ang(Ain, S) - ang(Q, S))
+    centre = min(centre, 360 - centre); head = min(head, 360 - head)
     alpha, beta = cone_angles_ellipse(a, p, L)
-    F.check(f"the angles found agree with the cone of the compass (centre {alpha:.2f}°, head {beta:.2f}°)",
-            abs(math.sin(alpha * D) ** 2 * ((2 * (p - L * L / a) + math.sqrt((2 * (p - L * L / a)) ** 2 + 16 * L * L)) / 2) - 2 * p) < 1e-9)
-    for q, s, d in [(A, "ا", (.07, -.05)), (B, "ب", (0, -.08)), (G, "ج", (0, -.08)), (Dd, "د", (.08, 0)), (He, "ه", (.08, 0)),
-                    (R, "ر", (0, -.08)), (T, "ط", (0, -.08)), (Hh, "ح", (0, -.08))]:
-        F.lab(q, s, d, size=12)
-    F.text((-1.0, -0.45), f"زاوية المركز ≈ {alpha:.1f}°   زاوية الرأس ≈ {beta:.1f}°", size=10, color=GREY)
-    # bottom: the ratio figure for the parabola
-    off = (-3.2, -1.9)
+    F.check(f"the centre angle ع س ق = {centre:.2f}° agrees with the cone of the compass", abs(centre - alpha) < 1e-6 or abs(180 - centre - alpha) < 1e-6)
+    F.line(S, Q, "redthin"); F.line(Ain, Q, "redthin")
+    for q, st, d in [(A, "ا", (.07, -.05)), (B, "ب", (0, -.08)), (G, "ج", (0, -.08)), (Dd, "د", (.08, 0)), (He, "ه", (.08, 0)),
+                     (R, "ر", (0, -.08)), (T, "ط", (0, -.08)), (H, "ح", (0, -.08)), (Yp, "ى", (-.06, .05)), (M, "م", (0, -.08)),
+                     (K, "ك", (0, -.08)), (Lp, "ل", (.0, .08)), (S, "س", (0, -.08)), (Ain, "ع", (.0, .08)), (W, "و", (.08, 0)),
+                     (Pp, "ص", (.08, 0)), (Q, "ق", (0, -.08))]:
+        F.lab(q, st, d, size=12)
+    F.text((-2.0, -0.55), f"زاوية المركز ≈ {alpha:.1f}°    زاوية الرأس ≈ {beta:.1f}°", size=10, color=GREY)
+    off = (-3.5, -1.6)
     AB, BC = 1.6, 0.55
     A2 = off; B2 = (off[0] + AB, off[1]); C2 = (off[0] + AB, off[1] + BC); D2 = (off[0] + AB + BC * BC / AB, off[1])
     F.line(A2, D2, "con"); F.line(A2, C2, "con"); F.line(C2, D2, "con"); F.line(B2, C2, "con")
-    for q, s, d in zip((A2, B2, C2, D2), "ابجد", ((-.07, 0), (0, -.08), (0, .08), (.07, 0))):
-        F.lab(q, s, d, size=12)
+    for q, st, d in zip((A2, B2, C2, D2), "ابجد", ((-.07, 0), (0, -.08), (0, .08), (.07, 0))):
+        F.lab(q, st, d, size=12)
     return F.save(out)
 
 def fig68(out, t=0.7):
     F = Fig(6.4, 4.2)
     Z = (0, 0); He = (2.0, 0)
     F.line((-0.1, 0), (2.0 + 2.0 * t * t + 0.1, 0), "con")
-    ang_ = 110
+    ang_ = 245
     Hh = pol(0.9, ang_, Z); Tt = pol(0.9 + 0.9 * t * t, ang_, Z)
     F.line(Z, Tt, "con"); F.line(Hh, He, "con")
     Yp = (He[0] + 2.0 * t * t, 0)
@@ -473,30 +500,47 @@ def fig68(out, t=0.7):
     return F.save(out)
 
 def fig70(out, a=1.0, p=0.9, L=0.9):
-    F = Fig(7.0, 4.6)
-    A = (0, 0); B = (2 * a, 0); G = (2 * a + 2 * p, 0); Dd = (-2 * p, 0)
-    F.line((Dd[0] - 0.1, 0), (G[0] + 1.2, 0), "con")
-    He = pol(a * a / L * 0.8, 125, Dd); R = pol((a * a / L + L) * 0.8, 125, Dd)
+    F = Fig(8.4, 6.0)
+    A = (0.0, 0.0); Dd = (2 * p, 0.0); B = (2 * a, 0.0); G = (2 * a + 2 * p, 0.0)
+    He = pol(a * a / L, 235, Dd); R = pol(a * a / L + L, 235, Dd)
     F.line(Dd, R, "con"); F.line(He, G, "con")
-    Tt = line_inter(R, (R[0] + G[0] - He[0], R[1] + G[1] - He[1]), A, G)
-    F.line(R, Tt, "con")
-    c = mid(Dd, Tt); r = dist(Dd, Tt) / 2
+    T = line_inter(R, (R[0] + G[0] - He[0], R[1] + G[1] - He[1]), A, G)
+    F.line(R, T, "con")
+    F.close_enough("ج ط = 2L²/a", dist(G, T), 2 * L * L / a)
+    c = mid(Dd, T); r = dist(Dd, T) / 2
     F.arc(c, r, 0, 180, "con", lw=0.8)
-    Hx = (G[0], math.sqrt(max(0, r * r - (G[0] - c[0]) ** 2)))
+    Hx = (G[0], math.sqrt(r * r - (G[0] - c[0]) ** 2))
     F.line(G, Hx, "con")
-    Yp = mid(Tt, B)
+    F.close_enough("ج ح = 2L", Hx[1], 2 * L)
+    Yp = mid(T, B)
+    N = (T[0], Hx[1]); F.line(Hx, N, "redthin"); F.line(T, N, "redthin")
     rad = math.sqrt(dist(Yp, B) ** 2 + Hx[1] ** 2)
-    Kp = (Yp[0] + rad, 0)
-    F.arc(Yp, rad, 0, 40, "con", lw=0.9)
-    rad_text = dist(Yp, Hx)
-    F.arc(Yp, rad_text, 0, 40, "aux", lw=0.7)
-    s = dist(B, Kp)
-    alpha = asind(math.sqrt(2 * p / s))
-    F.check("ب ك · ط ك = ج ح² = 4L² (corrected radius)", abs(dist(B, Kp) * dist(Tt, Kp) - Hx[1] ** 2) < 1e-6)
-    for q, s_, d in [(A, "ا", (0, -.08)), (B, "ب", (0, -.08)), (G, "ج", (0, -.08)), (Dd, "د", (0, -.08)), (He, "ه", (-.07, 0)),
-                    (R, "ر", (-.07, 0)), (Tt, "ط", (0, -.08)), (Hx, "ح", (.0, .08)), (Yp, "ى", (0, -.08)), (Kp, "ك", (0, -.08))]:
-        F.lab(q, s_, d, size=12)
-    F.text((1.5, -0.5), f"زاوية المركز ≈ {alpha:.1f}°", size=10, color=GREY)
+    K = (Yp[0] + rad, 0.0)
+    F.arc(Yp, rad, 0, ang(N, Yp), "con", lw=0.9)
+    rt = dist(Yp, Hx); Kt = (Yp[0] + rt, 0.0)
+    F.arc(Yp, rt, 0, ang(Hx, Yp), "aux", lw=0.7)
+    F.check("ب ك · ط ك = ج ح² (Euclid II.6, corrected radius)", abs(dist(B, K) * dist(T, K) - Hx[1] ** 2) < 1e-9)
+    cb = mid(B, K); rb = dist(B, K) / 2
+    F.arc(cb, rb, 0, 180, "con", lw=0.8)
+    Lp = (G[0], math.sqrt(rb * rb - (G[0] - cb[0]) ** 2))
+    F.line(G, Lp, "con")
+    M = line_inter(K, Lp, (0, 0), (0, 1)); S = line_inter(Lp, B, (0, 0), (0, 1))
+    F.line(K, M, "con"); F.line(Lp, S, "con")
+    F.line((0, S[1] - 0.1), (0, M[1] + 0.1), "con")
+    F.line((-0.1, 0), (K[0] + 0.1, 0), "con")
+    cm = mid(M, S); rm = dist(M, S) / 2
+    F.circle(cm, rm, "con", lw=0.7)
+    Q = [q for q in line_circle((-5, 0), (10, 0), cm, rm) if q[0] > 1e-6][0]
+    F.check("the circle on م س passes through ل", abs(dist(cm, Lp) - rm) < 1e-9)
+    centre = abs(ang(Lp, K) - ang(Q, K)); centre = min(centre, 360 - centre)
+    s_ = dist(B, K)
+    F.check(f"sin²(centre angle ل ك ع) = ب ج / ب ك ({centre:.2f}°)", abs(sind(centre) ** 2 - 2 * p / s_) < 1e-9)
+    F.line(Lp, Q, "redthin")
+    for q, st, d in [(A, "ا", (-.07, -.06)), (Dd, "د", (0, -.08)), (B, "ب", (0, -.08)), (G, "ج", (.05, -.08)), (He, "ه", (-.07, 0)),
+                     (R, "ر", (-.07, 0)), (T, "ط", (0, -.08)), (Hx, "ح", (-.06, .05)), (Yp, "ى", (0, -.08)), (K, "ك", (0, -.08)),
+                     (N, "ن", (.06, .05)), (Lp, "ل", (.06, .05)), (M, "م", (-.07, 0)), (S, "س", (-.07, 0)), (Q, "ع", (0, .08))]:
+        F.lab(q, st, d, size=12)
+    F.text((4.0, -0.6), f"زاوية المركز ≈ {centre:.1f}°", size=10, color=GREY)
     return F.save(out)
 
 # --------------------------------------------------------------------------- 71 straight line
@@ -635,11 +679,28 @@ def azimuth_conic(F, cx, e, sgn, title, kind_expected):
     F.check(f"{title}: the angle at ع gives a {k}", k == kind_expected)
     R = line_inter(O, Tt, (0, 0), (0, 1))
     F.line(S(O), S(R), "con")
+    uJ = (Jj[0], Jj[1]); uS = (Ss[0], Ss[1])
+    P_ = lambda y, z: (y * uJ[0] + z * uS[0], y * uJ[1] + z * uS[1])
+    Pt = P_(R[1], 0)
+    F.lab(S(Pt), "ص", (.05, .06), size=11); F.dot(S(Pt), RED, 5)
     if k != "parabola":
         N = line_inter(O, Ll, (0, 0), (0, 1))
         F.line(S(O), S(N) if abs(N[1]) < 3 else S(Ll), "con")
+        if abs(N[1]) < 1.5:
+            Fq = P_(N[1], 0); F.dot(S(Fq), RED, 5)
+            F.lab(S(Fq), "ف" if k == "ellipse" else "ا", (.05, .06), size=11)
+            F.lab(S(N), "ن", (.06, 0), size=11)
     else:
         F.line(S(O), S(Ll), "con")
+    xs, ys, ok = [], [], []
+    for q in gproj.image(Tt, Ll, e):
+        if q is None: xs.append(0); ys.append(0); ok.append(False); continue
+        pt = S(P_(q[0], q[1])); xs.append(pt[0]); ys.append(pt[1]); ok.append(dist(pt, S((0, 0))) < 1.25)
+    for ii in range(1, len(xs)):
+        if ok[ii] and ok[ii - 1] and math.hypot(xs[ii] - xs[ii - 1], ys[ii] - ys[ii - 1]) > 0.4: ok[ii] = False
+    F.curve_clip(xs, ys, ok, "aux", lw=1.0)
+    F.check(f"{title}: the image passes through س (the node lies on the equator)",
+            min(math.hypot(x - S(Ss)[0], y - S(Ss)[1]) for x, y, o in zip(xs, ys, ok) if o) < 0.01)
     for q, s, d in [(K_, "ك", (-.08, 0)), (M_, "م", (.08, 0)), (H_, "ح", (0, .08)), (Y_, "ي", (0, -.08)), (Tt, "ط", pol(.08, ang(Tt))),
                     (Ll, "ل", pol(.08, ang(Ll))), (Ss, "س", pol(.08, ang(Ss))), (Jj, "ج", pol(.08, ang(Jj))), (Dd, "د", pol(.08, ang(Dd))),
                     (O, "ع", (0, -.08)), (R, "ر", (.06, .04))]:

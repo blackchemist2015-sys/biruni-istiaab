@@ -18,7 +18,7 @@ from bidi.algorithm import get_display
 HERE = os.path.dirname(os.path.abspath(__file__))
 for f in ("Amiri-Regular.ttf", "Amiri-Bold.ttf"):
     fm.fontManager.addfont(os.path.join(HERE, "fonts", f))
-plt.rcParams["font.family"] = "Amiri"
+plt.rcParams["font.family"] = ["Amiri", "DejaVu Sans"]
 plt.rcParams["mathtext.fontset"] = "stix"
 
 EPS = 23 + 35 / 60          # al-Bīrūnī's obliquity 23;35°
