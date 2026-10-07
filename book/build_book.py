@@ -60,7 +60,7 @@ def figure_section(FT, checks):
                 continue
             inf = info[n]
             L += [f"### الشكل {ar(n)}: {ft['t']}", ""]
-            L += [f"::: {{custom-style=\"Author\"}}", f"من باب «{ft['sec']}» — الورقة {inf['fol']}، صفحة المصوّرة {inf['pdf']}", ":::", ""]
+            L += [f"::: {{custom-style=\"Author\"}}", f"من باب «{ft['sec']}» — «ب»، الورقة {inf['fol']}، صفحة المصوّرة {inf['pdf']}", ":::", ""]
             for k, msimg in enumerate(inf["ms"]):
                 cap = "صورة الشكل في المخطوط" + (f" ({ar(k + 1)})" if len(inf["ms"]) > 1 else "")
                 L += [f"![{cap}](../figures-atlas/{msimg}){{width={ft.get('msw', '55%')}}}", ""]

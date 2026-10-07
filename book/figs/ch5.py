@@ -64,30 +64,43 @@ def fig34(out):
     F.line((-1, 0), (1, 0), "con", lw=0.8); F.line((0, 1), (0, 0.07), "con", lw=0.8)
     return F.save(out)
 
+def from_code(code):
+    """Signs outside the equator for a rete in Charette's notation (Charette 2003, Table 2.1):
+    one letter per sign from Aries; N = northern projection, S = southern projection."""
+    out = set()
+    for i, c in enumerate(code.replace("|", "").replace(" ", "")):
+        if (i < 6 and c == "S") or (i >= 6 and c == "N"):
+            out.add(i)
+    return out
+
+# The six retes of al-Sijzi as drawn in MS ب (ff. 37v-38r), identified with Charette's Table 2.1
+# (from MS Leiden Or. 591, pp. 97-99): (label in the figure, notation)
 SIJZI = [
-    ("الثوري", {PIS, ARI, VIR, LIB}),
-    ("البوري", {TAU, GEM, CAN, SGR, CAP, AQR, VIR, LIB}),
-    ("الباطي", {AQR, PIS, ARI, TAU, LEO, VIR, LIB, SCO}),
-    ("الصدفي (؟)", {TAU, GEM, CAN, LEO, SCO, SGR, CAP, AQR}),
-    ("السلحفي", {TAU, LEO, SCO, AQR}),
-    ("الجاموسي", {TAU, GEM, CAN, SGR, CAP, AQR}),
+    ("النرجسداني", "SNN|NNS|NSS|SSN"),     # ب: «الثوري» (f. 37v)
+    ("الثوري", "SSN|NSS|NSN|NSN"),         # ب: «البوري» (تصحيف)
+    ("الباطي", "SSN|NNS|NSS|SNN"),
+    ("الصدفي", "SNS|SNS|NSN|NSN"),         # ب: بلا عنوان
+    ("السلحفي", "NSN|NSN|SNS|SNS"),
+    ("الجاموسي", "NSS|NNS|NSS|NNS"),
 ]
 
 def fig35(out):
     F = Fig(11, 7.6)
     pos = [(0, 0), (2.5, 0), (5.0, 0), (7.5, 0), (2.5, -2.55), (5.0, -2.55)]
     pos = [(7.6, 0.0), (0.0, 1.3), (2.5, 1.3), (5.0, 1.3), (1.25, -1.3), (3.75, -1.3)]
-    for (name, outside), c in zip(SIJZI, pos):
+    for (name, code), c in zip(SIJZI, pos):
+        outside = from_code(code)
         mixed_rete(F, outside, rot=-90, c=c, s=1.0, size=6.3, w=0.09)
         check_rete(F, outside, name)
         F.text((c[0], c[1] + 1.12), name, size=13)
-    # the fittings legible on the page: ring of البوري, bar and rings of the fourth, horns of الجاموسي
-    c = pos[1]; F.circle((c[0], c[1] + 0.82), 0.13, "con"); F.line((c[0] - 0.22, c[1] + 0.97), (c[0], c[1] + 0.55), "con"); F.line((c[0] + 0.22, c[1] + 0.97), (c[0], c[1] + 0.55), "con")
+        F.text((c[0], c[1] - 1.1), code.replace("|", " | "), size=8)
+    # the fittings legible on the page: ring of the thawri, bar and rings of the sadafi, horns and eyes of the jamusi
+    c = pos[1]; F.circle((c[0], c[1] + 0.9), 0.09, "con"); F.line((c[0] - 0.22, c[1] + 0.97), (c[0], c[1] + 0.55), "con"); F.line((c[0] + 0.22, c[1] + 0.97), (c[0], c[1] + 0.55), "con")
     c = pos[3]; F.line((c[0], c[1] + 0.85), (c[0], c[1] - 0.85), "con"); F.circle((c[0], c[1] + 0.92), 0.08, "con"); F.circle((c[0], c[1] - 0.92), 0.08, "con")
     c = pos[5]
     for sy in (1, -1):
         F.line((c[0] - 0.12, c[1] + sy * 0.99), (c[0], c[1] + sy * 0.62), "con"); F.line((c[0] + 0.12, c[1] + sy * 0.99), (c[0], c[1] + sy * 0.62), "con")
-    F.circle((c[0] - 0.42, c[1]), 0.16, "con"); F.circle((c[0] + 0.42, c[1]), 0.16, "con")
+    F.circle((c[0] - 0.68, c[1] - 0.12), 0.11, "con"); F.circle((c[0] + 0.68, c[1] - 0.12), 0.11, "con")
     c = pos[4]; F.circle((c[0], c[1] + 0.9), 0.07, "con")
     return F.save(out)
 
