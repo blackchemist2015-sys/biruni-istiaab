@@ -1,0 +1,685 @@
+[
+ {
+  "n": 1,
+  "group": "0",
+  "raw": "Fig. 1 f. 6v · PDF p. 25 دستور الدوائر وصورة العضادة المحرفة عمل دستور الدوائر Manuscript Reconstruction دستور الدوائر والعضادة المحرفة The circle-template ring: 360 degrees, signs of the zodiac laid out by the right ascensions (مطالع الفلك المستقيم) from the east point, the shadow (digits) quadrant by Biruni's perpendicular construction, and the bevelled alidade (العضادة المحرفة). 3 construction checks pass",
+  "ms": [
+   "ms/01_0.jpg"
+  ]
+ },
+ {
+  "n": 2,
+  "group": "0",
+  "raw": "Fig. 2 f. 7r · PDF p. 26 دستور الأقطار عمل دستور الأقطار Manuscript Reconstruction دستور الأقطار (the template of diameters): a square plate, one side divided into 60 (or 120) equal parts, the opposite side bisected, and the bisection point joined to every division. As in the manuscript the divided side carries a thin tick band and, below it inside the square, a band of 5-part cells numbered ه ي ه ك ... س from the right. The text joins the apex to every division; like the manuscript we draw only the lines to every fifth division (sixty lines would blot the drawing). 1 construction check pass",
+  "ms": [
+   "ms/02_0.jpg"
+  ]
+ },
+ {
+  "n": 3,
+  "group": "0",
+  "raw": "Fig. 3 f. 8r · PDF p. 28 كيفية الانتفاع بدستور الدوائر كيفية الانتفاع بدستور الدوائر Manuscript Reconstruction الانتفاع بدستور الدوائر: the plate (circle ج د) centred in the dastur (circle اب), the alidade laid on ج falls on ا; counting 72 parts (one fifth) to the left gives ز; the alidade laid on ز marks د, so that arc ج د is one fifth of its circle. 2 construction checks pass",
+  "ms": [
+   "ms/03_0.jpg"
+  ]
+ },
+ {
+  "n": 4,
+  "group": "0",
+  "raw": "Fig. 4 f. 8v · PDF p. 29 ظهر الاصطرلاب وقسمة ربع الارتفاع قسمة الحجرة وظهر الأم Manuscript Reconstruction ظهر الاصطرلاب: the back of the mater with its throne; the limb (حجرة) divided into 360; the left upper quadrant divided into 90 equal parts, numbered by fives from the left (horizontal) up to the throne.",
+  "ms": [
+   "ms/04_0.jpg"
+  ]
+ },
+ {
+  "n": 5,
+  "group": "0",
+  "raw": "Fig. 5 f. 9v · PDF p. 31 عمل مداري الحمل والسرطان من مدار الجدي عمل المدارات على الصفائح Manuscript Reconstruction عمل المدارات: from the circle of Capricorn اب ج د the equator (ح ط ي ك) and the tropic of Cancer (ل س م) are found by joining ا ز (arc د ز = greatest declination) and then ك ط. 2 construction checks pass",
+  "ms": [
+   "ms/05_0.jpg"
+  ]
+ },
+ {
+  "n": 6,
+  "group": "0",
+  "raw": "Fig. 6 f. 10r · PDF p. 32 عمل مدار أي برج أو درجة شمالية أو جنوبية الميل عمل المدارات على الصفائح Manuscript Reconstruction مدار أي درجة شئنا: on the equator (radius ه ح) take arc ح ط equal to a northern declination toward ج, or arc ح ي equal to a southern declination toward ا; the lines from the projection pole ك through ط, ي cut the meridian ه د at م and ل, the radii of the required day-circles. Examples of the text: mid-Taurus / mid-Leo (16;26 N) and the beginning of Scorpio / Pisces (11;32 S). 1 construction check pass",
+  "ms": [
+   "ms/06_0.jpg"
+  ]
+ },
+ {
+  "n": 7,
+  "group": "1",
+  "raw": "Fig. 7 f. 12r · PDF p. 36 عمل الأفق والمقنطرة السادسة عمل الأفق ومقنطرات الارتفاع Manuscript Reconstruction عمل الأفق ومقنطرات الارتفاع. Arcs ك ز and م ط on the equator, each equal to the latitude; ك ط cuts the lower meridian at س, ك ز produced meets the upper meridian (on the board beyond the plate, «حد اللوح») at ل; the midpoint ع of س ل is the centre of the horizon م س ك. For the 6th almucantar: arcs ز ن and ط ي of 6 parts; ك ي cuts the lower meridian at ف, ك ن meets the upper meridian at ص; the midpoint ق is the centre of the almucantar ر ف ش. (Latitude 33°, as the plate of f.12v.) 2 construction checks pass",
+  "ms": [
+   "ms/07_0.jpg"
+  ]
+ },
+ {
+  "n": 8,
+  "group": "1",
+  "raw": "Fig. 8 f. 12v · PDF p. 37 صورة الصفيحة مع المقنطرات وخطوط الساعات الزمانية عمل خطوط الساعات الزمانية Manuscript Reconstruction صورة الصفيحة: a plate for latitude 33° with the horizon, almucantars every 6 degrees (سدسي), the zenith ص, and the twelve unequal (seasonal) hour lines below the horizon, numbered from the western horizon.",
+  "ms": [
+   "ms/08_0.jpg"
+  ]
+ },
+ {
+  "n": 9,
+  "group": "1",
+  "raw": "Fig. 9 f. 13v · PDF p. 39 قسمة منطقة البروج في العنكبوت بالدستور عمل منطقة البروج وقسمتها في العنكبوت Manuscript Reconstruction قسمة منطقة البروج في العنكبوت: the rete-plate set in the dastur with the beginning of Capricorn (ح) toward the south point and Aries toward the east; the bevelled alidade laid on the sign boundaries (taken by right ascension) cuts the ecliptic ح ك ز م at ط and ي (Capricorn / Cancer ends), ل and ن (Aquarius / Leo ends) ...",
+  "ms": [
+   "ms/09_0.jpg"
+  ]
+ },
+ {
+  "n": 10,
+  "group": "1",
+  "raw": "Fig. 10 f. 14v · PDF p. 41 عمل رؤوس الكواكب الثابتة في العنكبوت بأبعادها عن معدل النهار عمل رؤوس الكواكب الثابتة في العنكبوت Manuscript Reconstruction عمل رؤوس الكواكب الثابتة في العنكبوت: on the equator (ط ك ل م, centre ه) arc ط ق to the right = northern declination; ك ق cuts the meridian at س, radius ه س = the star's day-circle. For a southern star arc ط ن to the left; ك ن produced meets ه ح at ع (outside the ecliptic on the side of ح). The alidade on the star's culminating degree (درجة الممر) then cuts the day-circle at the star's head. 1 construction check pass",
+  "ms": [
+   "ms/10_0.jpg"
+  ]
+ },
+ {
+  "n": 11,
+  "group": "1",
+  "raw": "Fig. 11 f. 16r · PDF p. 44 طريق حبش الحاسب في استخراج رؤوس الكواكب الثابتة طريق آخر في استخراج رؤوس الكواكب الثابتة في العنكبوت Manuscript Reconstruction طريق حبش الحاسب: for a northern star whose culminating degree is ش, join ه ش ط; arc ط ق = its declination, ط ن a quadrant; ن ق cuts ه ط at ع, the star's head. For a southern star (culminating degree ي) join ه س ي; س ز = declination, س ص a quadrant; ص ز produced meets ه س ي at ف. 2 construction checks pass",
+  "ms": [
+   "ms/11_0.jpg"
+  ]
+ },
+ {
+  "n": 12,
+  "group": "1",
+  "raw": "Fig. 12 f. 17v · PDF p. 47 عمل دوائر السموت بالطريق المشهور عمل دوائر السموت Manuscript Reconstruction عمل دوائر السموت (the common method). Equator ط ك ل م (centre ه), horizon ك س م, pole of projection ك. Arc ط ز = latitude; ك ز cuts the meridian at ص (zenith). The prime vertical ك ص م ح (centre ع on the lower meridian, ح = nadir); the line of centres through ع parallel to the east-west line. Arc ح ف = twice the required parts; ص ف cuts the line of centres at ق, centre of the azimuth circle through ص, ح. (Latitude 33°, arc ح ف = 2 x 30°.) 2 construction checks pass",
+  "ms": [
+   "ms/12_0.jpg"
+  ]
+ },
+ {
+  "n": 13,
+  "group": "1",
+  "raw": "Fig. 13 f. 18r · PDF p. 48 وجه في عمل دوائر السموت لأبي محمد السيفي وجه في عمل هذه الدوائر لأبي محمد السيفي Manuscript Reconstruction وجه لأبي محمد السيفي: a circle ا ب ج د of any radius about the zenith ص; arc ا ب = the required parts; ص ب produced meets the line of centres (through ع) at the same centre ق found by the common method. 1 construction check pass",
+  "ms": [
+   "ms/13_0.jpg"
+  ]
+ },
+ {
+  "n": 14,
+  "group": "1",
+  "raw": "Fig. 14 f. 18v · PDF p. 49 وجه في عمل دوائر السموت لأبي محمود الخجندي وجه في عملها لأبي محمود حامد بن الخضر الخجندي Manuscript Reconstruction وجه لأبي محمود حامد بن الخضر الخجندي: arc ل ا on the equator = the distance of the azimuth from the meridian; ص ا cuts the horizon at ب; the circle through ب and the zenith and nadir (centre on the line of centres) is the required azimuth circle. (Verified: ص, ب, ا are exactly collinear for every azimuth.) 1 construction check pass",
+  "ms": [
+   "ms/14_0.jpg"
+  ]
+ },
+ {
+  "n": 15,
+  "group": "1",
+  "raw": "Fig. 15 f. 19v · PDF p. 51 استخراج رؤوس الكواكب بدوائر الطول والعرض عمل رؤوس الكواكب الثابتة في العنكبوت باستعمال دوائر السموت Manuscript Reconstruction عمل رؤوس الكواكب بدوائر السموت: the ecliptic ح ك ز م is treated as the horizon of a place whose latitude is the complement of the obliquity (66;25); its 'zenith' ص is the pole of the ecliptic, its 'azimuth circles' are circles of longitude and its almucantars circles of latitude. Star 1: longitude 200° from ك (Aries), latitude 6° N -> ح on the ecliptic, head at د. Star 2: Cancer 7°, latitude 10° S -> ي on the ecliptic, head at س (below the 'horizon').",
+  "ms": [
+   "ms/15_0.jpg"
+  ]
+ },
+ {
+  "n": 16,
+  "group": "1",
+  "raw": "Fig. 16 f. 20r · PDF p. 52 تخطيط مقنطرات الانحطاط تخطيط مقنطرات الانحطاط Manuscript Reconstruction تخطيط مقنطرات الانحطاط: equator ط ك ل م (centre ه) and the ecliptic ك ر م ح taken as a horizon. ك ا ح and ك ر ب with arcs ك ا, م ب = the 'latitude' (complement of the obliquity). For the 10th depression almucantar take arcs ا ج, ب د of 10° to the side opposite to that used for altitudes; ك ج meets the meridian at س, ك د at ع; the midpoint ف of س ع is the centre. 2 construction checks pass",
+  "ms": [
+   "ms/16_0.jpg"
+  ]
+ },
+ {
+  "n": 17,
+  "group": "2",
+  "raw": "Fig. 17 f. 22r · PDF p. 56 صورة العنكبوت الشمالي خرق العنكبوت وتشبيكها Manuscript Reconstruction صورة العنكبوت الشمالي: the rete of the northern astrolabe - outer ring (طوق) on the circle of Capricorn, the ecliptic ring divided into the signs, the central disc (الفلس), the meridian and east-west bars, and star pointers at the positions of the fixed stars for Biruni's epoch (Almagest positions + 13;13 of precession, i.e. 1310 Alexander / 999 AD).",
+  "ms": [
+   "ms/17_0.jpg"
+  ]
+ },
+ {
+  "n": 18,
+  "group": "2",
+  "raw": "Fig. 18 f. 22v · PDF p. 57 صورة باقي الآلات: الحلقة والعروة والعضادة والقطب والفرس خرق العنكبوت وتشبيكها (آخر الفصل) Manuscript Reconstruction صورة باقي الآلات: the remaining parts of the astrolabe - the ring (الحلقة) with its bail (العروة), the alidade (العضادة) with its two sighting vanes (اللبنة and الهدفة), and the axis-pin (القطب) with the wedge called the horse (الفرس).",
+  "ms": [
+   "ms/18_0.jpg"
+  ]
+ },
+ {
+  "n": 19,
+  "group": "2",
+  "raw": "Fig. 19 f. 23r · PDF p. 58 صفيحة الاصطرلاب الجنوبي عمل الاصطرلاب الجنوبي Manuscript Reconstruction صفيحة الاصطرلاب الجنوبي: projection from the north pole; the rim is now the tropic of Cancer and the smallest circle the tropic of Capricorn, the equator being common to both kinds. Horizon and almucantars (every 6°) for a latitude below the obliquity (22°), so that the zenith falls between the circles of Cancer and Aries, as the text says. 1 construction check pass",
+  "ms": [
+   "ms/19_0.jpg"
+  ]
+ },
+ {
+  "n": 20,
+  "group": "2",
+  "raw": "Fig. 20 f. 23v · PDF p. 59 صورة العنكبوت الجنوبي عمل الاصطرلاب الجنوبي Manuscript Reconstruction صورة العنكبوت الجنوبي: the rete of the southern astrolabe - same ecliptic ring but each sign carries the name of its opposite; the first ring (الطوق) left whole and round, joined to the ecliptic only at the east and west, and bent inward in three places in small semicircles with a fixed star at their centres; southern stars and those northern ones that fall within the circle of Cancer.",
+  "ms": [
+   "ms/20_0.jpg"
+  ]
+ },
+ {
+  "n": 21,
+  "group": "2",
+  "raw": "Fig. 21 f. 24r · PDF p. 60 عمل الساعات المستوية في الصفيحة عمل الساعات المستوية Manuscript Reconstruction عمل الساعات المستوية: equal-hour lines on a plate for latitude 30° (لعرض ل). Each day-circle is divided every 15° from its western intersection with the horizon; the circle through the three corresponding points bounds each equal hour. (Equivalently - the 'easier method' of the text - each hour line is the horizon turned by 15° about the pole, which is how it is computed here; both give the same circles.) Only the parts between the horizon and the circle of Capricorn, outside the circle of Cancer, are drawn. 1 construction check pass",
+  "ms": [
+   "ms/21_0.jpg"
+  ]
+ },
+ {
+  "n": 22,
+  "group": "2",
+  "raw": "Fig. 22 f. 25r · PDF p. 62 عمل صفيحة التسيير (مطرح الشعاع) عمل صفيحة التسيير Manuscript Reconstruction عمل صفيحة التسيير (the construction). Capricorn ا ب ج د, equator ط ك ل م, horizon ك ص م; arc ك ه = latitude; the line from the projection pole ك through ه meets the upper meridian at ي (south point of the horizon, beyond the plate); ص is its north point. The midpoint س of ص ي is the horizon's centre, and the line through س parallel to the east-west line is the line of centres of the tasyir circles: ص is taken as the 'zenith', ي as the 'nadir' and the horizon ك ص م as the 'prime vertical' of a fictitious locality. (Latitude 36°, which puts the centre س between ط and د as in the manuscript.) 1 construction check pass",
+  "ms": [
+   "ms/22_0.jpg"
+  ]
+ },
+ {
+  "n": 23,
+  "group": "2",
+  "raw": "Fig. 23 f. 25v · PDF p. 63 صورة صفيحة التسيير عمل صفيحة التسيير Manuscript Reconstruction صورة صفيحة التسيير: the great circles through the north and south points of the horizon (ص and ي), dividing the equator into equal parts (every 15°, i.e. every equal hour). They are 'horizons' turned about the north-south line of the horizon; the horizon itself and the meridian are two of them. A small circle round ص holds the latitude of the plate. (Latitude 36°, as in f.25r.) 1 construction check pass",
+  "ms": [
+   "ms/23_0.jpg"
+  ]
+ },
+ {
+  "n": 24,
+  "group": "2",
+  "raw": "Fig. 24 f. 27r · PDF p. 66 الصفيحة الآفاقية (الوجه الأول: العروض ١–٣٣) عمل الصفيحة الآفاقية Manuscript Reconstruction الصفيحة الآفاقية (universal plate of horizons), first face. Every horizon passes through two opposite points of the equator. Four 'origins' are used - the ends of the two diameters on the equator - and the plate is turned a quarter for each successive degree of latitude, so that the horizons issuing from any one origin differ by 4°: left 0 (the east-west diameter itself), 4, 8 ... 32; top 1, 5 ... 33; right 2, 6 ... 30; bottom 3, 7 ... 31. Only the parts between the two tropics are kept. Each half-diameter between the tropics is divided into degrees of declination (every 2°, numbered by tens), north inside the equator and south outside it, by (unmarked) day-circles. 1 construction check pass",
+  "ms": [
+   "ms/24_0.jpg"
+  ]
+ },
+ {
+  "n": 25,
+  "group": "3",
+  "raw": "Fig. 25 f. 28r · PDF p. 68 تجييب ظهر الاصطرلاب تجييب ظهر الاصطرلاب Manuscript Reconstruction تجييب ظهر الاصطرلاب (the sine quadrant on the back). The back is the circle ا ب ج د with the diameters ب ه د and ا ه ج; the altitude quadrant ا د is graduated from د (0°) to ا (90°). From every degree of it a line is drawn parallel to the diameter ب ه د, as in the manuscript drawing (every degree here, heavier every 10°); these lines cut the radius ه ا in the sines. The radius ه د, as far as the inner circle, is divided into 60 equal parts, numbered by fives (tens printed).",
+  "ms": [
+   "ms/25_0.jpg"
+  ]
+ },
+ {
+  "n": 26,
+  "group": "3",
+  "raw": "Fig. 26 f. 30r · PDF p. 72 خط الزوال وخطا أول العصر وآخره على ظهر الاصطرلاب عمل خط الزوال وخطي العصر على ظهر الاصطرلاب Manuscript Reconstruction خط الزوال وخطا العصر على ظهر الاصطرلاب. In the quadrant opposite the altitude quadrant the day-circles of the sign beginnings are drawn equally spaced (the craftsmen's choice). For each, the noon altitude and the two afternoon-prayer altitudes are found - al-Shafi'i: shadow = noon shadow + one gnomon (beginning of ʿAṣr); Abu Hanifa: + two gnomons (end of ʿAṣr) - and the alidade laid on each altitude marks the day-circle; the marks are joined. Computed for latitude 36°: h_noon = 90 − φ + δ, cot h_asr = cot h_noon + n (n = 1, 2). As on this page of the manuscript, the upper-left (altitude) quadrant also carries the seasonal-hour lines of Fig. 27 on the same day-circles; the check verifies that its sixth-hour line is the noon line of the other quadrant. 1 construction check pass",
+  "ms": [
+   "ms/26_0.jpg"
+  ]
+ },
+ {
+  "n": 27,
+  "group": "3",
+  "raw": "Fig. 27 f. 30v · PDF p. 73 الساعات الزمانية على ظهر الاصطرلاب تخطيط الساعات الزمانية والمستوية على ظهر الاصطرلاب Manuscript Reconstruction تخطيط الساعات الزمانية على ظهر الاصطرلاب. In the altitude quadrant the day-circles of the beginnings of the signs are drawn equally spaced (Capricorn innermost, Cancer outermost) short of the centre. For each of them the sun's altitude at the beginning of every seasonal hour is computed; the alidade laid on that altitude marks the point where its edge cuts the day-circle. Joining corresponding points gives the hour lines; the sixth is the noon line (خط الزوال). Computed for latitude 36°: sin a = sin φ sin δ + cos φ cos δ cos t, t = H0 (1 - h/6), cos H0 = -tan φ tan δ.",
+  "ms": [
+   "ms/27_0.jpg"
+  ]
+ },
+ {
+  "n": 28,
+  "group": "3",
+  "raw": "Fig. 28 f. 32r · PDF p. 76 معرفة الارتفاع من الساعات وعكسه بطريق صناعي (ثلاثة أشكال) معرفة ذلك بطريق صناعي Manuscript Reconstruction معرفة الارتفاع من الساعات وعكسه بطريق صناعي (three analemma figures). Circle ا ب ج د = meridian, ب ه د = horizon, ز ه ح = equator (arc ب ز = latitude). Given the altitude (arc ز ل), ل م is drawn parallel to ز ح and م س parallel to ب د. (a) equinox: arc س ب is the time elapsed since sunrise. (b, c) other declinations: arc ا ط = the declination; ط ف ي parallel to ا ه ج; ط ي is the 'sine of the day' (جيب النهار). About ف with radius ط ف (the day-circle) the arc ط ك is drawn, ك being level with ي: arc ط ك = half the day arc. Then arc س ك = time since sunrise. Proof of the construction: y(م) = (sin a - sin δ sin φ)/cos φ, and cos(arc ط س) = y(م)/cos δ, i.e. sin a = sin φ sin δ + cos φ cos δ cos t. (Latitude 33°; δ = ±20°; altitudes 35°, 25°, 40°.) 2 construction checks pass",
+  "ms": [
+   "ms/28_0.jpg"
+  ]
+ },
+ {
+  "n": 29,
+  "group": "3",
+  "raw": "Fig. 29 f. 32v · PDF p. 77 تخطيط الساعات الزمانية على ظهر العضادة تخطيط الساعات الزمانية على ظهر العضادة Manuscript Reconstruction تخطيط الساعات الزمانية على ظهر العضادة. ا ب = the alidade between its two vanes ا د and ب ج. د ا is produced to ه so that د ه equals ا ب; about د with radius د ه the quadrant ه ج is drawn and divided into six equal parts at ز ح ط ي ك. The lines from د to these points cut the alidade at ل م س ع ف, the beginnings of the 2nd ... 6th hours (ا being the beginning of the first). Hence the marks lie at ا ل = د ا · tan 15°, ا م = د ا · tan 30°, ..., ا ف = د ا · tan 75° (Biruni's arithmetical variant with the shadow table). Drawn with ا ب = 4.2 × د ا. 1 construction check pass",
+  "ms": [
+   "ms/29_0.jpg"
+  ]
+ },
+ {
+  "n": 30,
+  "group": "3",
+  "raw": "Fig. 30 f. 33v · PDF p. 79 ظل السلم على ظهر الاصطرلاب عمل ظل السلم على ظهر الاصطرلاب Manuscript Reconstruction ظل السلم على ظهر الاصطرلاب (the 'shadow ladder' / shadow square). Back ا ب ج د, centre ه, altitude quadrant ا ب. The quadrant ج د is bisected at ز; ز ط is drawn parallel to ه د and ز ح parallel to ا ه ج, and each is divided into twelve equal parts numbered from ط and from ح so that ز is 12 on both. The squares and the triangles made with the alidade are similar, so one side gives the (direct) shadow and the other gives 144 divided by it.",
+  "ms": [
+   "ms/30_0.jpg"
+  ]
+ },
+ {
+  "n": 31,
+  "group": "4",
+  "raw": "Fig. 31 f. 36v · PDF p. 85 عنكبوت الاصطرلاب المطبل المزاج المطبل Manuscript Reconstruction عنكبوت الاصطرلاب المطبل (the 'drum' rete). The northern ecliptic (centre on the meridian between Capricorn and Aries) and the southern ecliptic (centre on the opposite side) are both drawn; they cut each other at the two equinoxes. The southern signs of the northern ecliptic and the northern signs of the southern ecliptic are kept: two arcs each greater than a semicircle - the drum. Capricorn of the one coincides with Cancer of the other on the rim. Stars are placed by the northern projection in the half holding the northern arc and by the southern projection in the other half, the bar separating them. (Turned so that the equinoxes lie on the vertical, as in the manuscript.) 1 construction check pass",
+  "ms": [
+   "ms/31_0.jpg"
+  ]
+ },
+ {
+  "n": 32,
+  "group": "4",
+  "raw": "Fig. 32 f. 36v · PDF p. 85 صفيحة المقنطرات للمطبل والآسي المزاج المطبل Manuscript Reconstruction صفيحة المطبل والآسي. The almucantars of altitude and of depression of the northern projection, sharing one horizon (solid); a second horizon of the same radius with its centre at the same distance on the opposite side (on the line وتد الأرض) is dotted - it is the horizon of the southern projection, and the two horizons cut each other where the equator meets the east-west line. (The southern altitude almucantars are the mirror images of the northern depression almucantars.) Latitude 22°, almucantars every 6°. 1 construction check pass",
+  "ms": [
+   "ms/32_0.jpg"
+  ]
+ },
+ {
+  "n": 33,
+  "group": "4",
+  "raw": "Fig. 33 f. 36v · PDF p. 85 عنكبوت الاصطرلاب الآسي المزاج الآسي Manuscript Reconstruction عنكبوت الاصطرلاب الآسي (the 'myrtle-leaf' rete). The reverse of the drum: the northern signs of the northern ecliptic and the southern signs of the southern ecliptic are kept - two arcs each less than a semicircle, meeting at the equinoxes: a myrtle leaf. Stars below the east-west bar are placed by the northern projection, those above it by the southern projection. Its plate is that of the drum (Fig. 32).",
+  "ms": [
+   "ms/33_0.jpg"
+  ]
+ },
+ {
+  "n": 34,
+  "group": "4",
+  "raw": "Fig. 34 f. 37r · PDF p. 86 عنكبوت الاصطرلاب المسرطن الاصطرلاب المسرطن Manuscript Reconstruction عنكبوت الاصطرلاب المسرطن (the 'crab' rete, ascribed to Bastulus). From the northern ecliptic the spring and autumn quadrants are taken, from the southern ecliptic the summer and winter quadrants. The quarters join at the equinoxes (both at the equator) but at the solstices the northern and southern pieces end on different circles (Cancer's on the rim and on the inner circle), and are joined by the east-west bar. The stars of each quarter of the rete are placed by that quarter's own projection. (Oriented as in the manuscript: Libra up, Aries down.)",
+  "ms": [
+   "ms/34_0.jpg"
+  ]
+ },
+ {
+  "n": 35,
+  "group": "4",
+  "raw": "Fig. 35 f. 37v – 38r · PDF p. 87, 88 ستة أنواع من العناكب الممزوجة (نقلًا عن أبي سعيد السجزي) الاصطرلاب المسرطن وسائر المزاجات Manuscript Reconstruction ستة أنواع من العناكب الممزوجة (al-Sijzi's six mixed retes, copied by Biruni): الثوري، البوري، الباطي، الصدفة، السلحفي، الجاموسي. Each is built from sign-arcs taken from the northern ecliptic or from the southern ecliptic; a northern sign lies outside the equator only in the southern projection and a southern sign only in the northern one, so the outer/inner position of each piece in the manuscript decides its projection. Arcs are exact; the distribution of the signs follows the legible labels of the manuscript (partly conjectural where the drawing is illegible); the animal ornaments are omitted.",
+  "ms": [
+   "ms/35_0.jpg",
+   "ms/35_1.jpg"
+  ]
+ },
+ {
+  "n": 36,
+  "group": "4",
+  "raw": "Fig. 36 f. 39r · PDF p. 90 مقادير المسطرتين في الاصطرلاب الشقائقي للسجزي مزاج أبي سعيد السجزي بمسطرتين Manuscript Reconstruction مقادير المسطرتين في اصطرلاب السجزي الشقائقي. Circle ا ب ج د is the equator of the first ruler; arc ا ب = the greatest declination. ج ب produced meets the diameter at ح: ه ح is the radius of Capricorn for that ruler (the rim of the plate). د ب cuts it at ط: ه ط is Cancer's radius, circle ك ط ل. Taking ك ط ل as the Capricorn circle of the second ruler, ك ل (arc = greatest declination) cuts the diameter at م: ه م is the equator of the second ruler (circle ف م س), and ف س gives ع: ه ع its Cancer. (Each step multiplies the radius by tan(45° ± ε/2).) 2 construction checks pass",
+  "ms": [
+   "ms/36_0.jpg"
+  ]
+ },
+ {
+  "n": 37,
+  "group": "4",
+  "raw": "Fig. 37 f. 39v · PDF p. 91 عنكبوت الاصطرلاب الشقائقي للسجزي مزاج أبي سعيد السجزي بمسطرتين Manuscript Reconstruction عنكبوت الاصطرلاب الشقائقي (al-Sijzi's two-ruler rete). Spring quarter: northern projection, first ruler; winter quarter: southern projection, first ruler; summer quarter: southern projection, second ruler; autumn quarter: northern projection, second ruler - the second ruler's Capricorn circle being the first ruler's Cancer circle (Fig. 36). The four quarters join continuously: at Aries both first-ruler arcs reach the first equator and meet at an acute angle (blackened on the instrument, hence 'anemone'); at the solstices the first ruler's Cancer meets the second ruler's Capricorn; at Libra both second-ruler arcs meet on the second equator. The rim is the first ruler's Capricorn. Stars of each quarter are placed by that quarter's projection and ruler. The supports follow the manuscript drawing: an east-west bar right across, a short bar from the hub up to the band, a bar from the point of Aries down to the rim, a crescent joining the top of the band to a small ring on the rim and a small crescent inside the band at the bottom. (The drawing also has two side rings on the rim and a spiked hub, omitted here; it draws the band's top as a smooth curve, whereas the two second-ruler quarters meet at Libra in a shallow notch of 180 - 2 eps.) 4 construction checks pass",
+  "ms": [
+   "ms/37_0.jpg"
+  ]
+ },
+ {
+  "n": 38,
+  "group": "4",
+  "raw": "Fig. 38 f. 40v · PDF p. 93 صفيحتا الاصطرلاب الشقائقي: المقنطرات المتكافئة وغير المتكافئة مزاج أبي سعيد السجزي بمسطرتين Manuscript Reconstruction صفيحتا الاصطرلاب الشقائقي: the horizons (dotted) of the two rulers. The first ruler's horizons serve between its equator and its Cancer circle (where the winter and spring quarters of the rete revolve), the second ruler's horizons inside that circle (the summer and autumn quarters). Each ruler has a northern horizon and its mirror, the southern one, cutting each other on that ruler's equator - so the two pairs of horizons cut in four places, 'because Capricorn and Cancer are united while the circle of Aries is not that of Libra'. Right: one kind of horizon on each side, exchanged between the rulers (المتكافئة); left: both kinds everywhere (غير المتكافئة). Latitude 36°. The plate's rim is the first ruler's equator ا ب ج د (Fig. 36: 'the circle made the rim of the plate'); inside it the first ruler's Cancer (= the second's Capricorn) and the second ruler's equator, as in the drawing. In the manuscript the right-hand plate shows only the second ruler's horizons (both kinds, one set heavy and one faint) and leaves the outer ring empty; the first ruler's exchanged horizons are added here so that each face shows one continuous horizon (they join exactly on the common Cancer/Capricorn circle, which is asserted). 1 construction check pass",
+  "ms": [
+   "ms/38_0.jpg"
+  ]
+ },
+ {
+  "n": 39,
+  "group": "4",
+  "raw": "Fig. 39 f. 41v · PDF p. 95 الاصطرلاب الزورقي: الصفيحة والأفق المجسم عمل الاصطرلاب الزورقي Manuscript Reconstruction الاصطرلاب الزورقي لأبي سعيد السجزي: the plate and the 'solid horizon'. The almucantars, the ecliptic and the star heads are all engraved on the plate (nothing is cut out); the only moving part is a brass horizon hinged on the pole: a lune whose concave edge is the plate's horizon (here 33°) and whose convex edge is the horizon of another plate (here 45°); both horizons pass through the east and west points. A bar (العمود), like a piece of a bevelled alidade, lies along the meridian when the horizon is laid on the plate's horizon; two vanes on the lune (on one day-circle) replace the alidade. The earth-horizon turns while the heavens stay fixed - Sijzi's device based on the earth's rotation.",
+  "ms": [
+   "ms/39_0.jpg"
+  ]
+ },
+ {
+  "n": 40,
+  "group": "4",
+  "raw": "Fig. 40 f. 42r · PDF p. 96 عدة آفاق معلقة من الفلس (الاصطرلاب الزورقي) عمل الاصطرلاب الزورقي Manuscript Reconstruction آفاق عدة معلقة من الفلس في الزورقي. When one solid horizon (concave for one latitude, convex for another) does not serve all the plates, several horizons are hung from the hub, 'with disjointed ends'. Each piece here is the exact lune between two horizons, from the north point on the meridian to the west point where both horizons meet; the four pieces are turned a quarter apart about the pole. Latitude pairs (concave / convex): 21/33, 24/36, 27/39, 30/42.",
+  "ms": [
+   "ms/40_0.jpg"
+  ]
+ },
+ {
+  "n": 41,
+  "group": "4",
+  "raw": "Fig. 41 f. 42v · PDF p. 97 مسطرة الاصطرلاب المسطري عمل الاصطرلاب المسطري Manuscript Reconstruction مسطرة الاصطرلاب المسطري. A bevelled rule turning on the pole replaces the rete; its fiducial edge passes through the centre and is divided by the day-circles of the signs and their degrees (the circles are shown dashed). Signs of equal declination fall at the same distance, so one half of the edge carries Capricorn...Gemini (declination rising) and the other half Cancer...Sagittarius; each cell is divided by degrees (ticks every 2°, longer every 10°).",
+  "ms": [
+   "ms/41_0.jpg"
+  ]
+ },
+ {
+  "n": 42,
+  "group": "4",
+  "raw": "Fig. 42 f. 43r · PDF p. 98 عنكبوت الاصطرلاب الصليبي عمل الاصطرلاب الصليبي Manuscript Reconstruction عنكبوت الاصطرلاب الصليبي لأبي سعيد السجزي. A straight line perpendicular to the meridian and touching the equator is divided by the day-circles (dashed) of the signs and degrees. All its points lie outside the equator: on one half they are read as southern declinations (northern projection: Capricorn, Aquarius, Pisces - and their partners Sagittarius, Scorpio, Libra), on the other half as northern declinations (southern projection: Aries, Taurus, Gemini - and Virgo, Leo, Cancer); the plate carries both kinds of almucantars. Under the line: a strip of degrees and two strips of signs; along the meridian a bar divided into the parts of the greatest declination, and another bar joining the line to the hub on the pole: a cross.",
+  "ms": [
+   "ms/42_0.jpg"
+  ]
+ },
+ {
+  "n": 43,
+  "group": "4",
+  "raw": "Fig. 43 f. 43v · PDF p. 99 الاصطرلاب اللولبي للسجزي عمل الاصطرلاب اللولبي Manuscript Reconstruction عمل الاصطرلاب اللولبي لأبي سعيد السجزي. The rule of the mistari astrolabe bent into a spiral: every pair of signs of equal declination gets a full quarter. ط on the meridian on the circle of the beginning of Capricorn, ي on the east line on the circle of the beginning of Aquarius: arc ط ي (for Sagittarius and Capricorn) lies between those two circles and is divided into degrees by the day-circles between them; then ي ز (Scorpio, Aquarius) to the circle of Pisces on the lower meridian, ز د (Libra, Pisces), د ا (Virgo, Aries), ا ب (Leo, Taurus), ب ج (Cancer, Gemini). Each quarter-arc is taken as the circle through its two end points that touches the day-circle of its first point there, so that it stays between the two circles.",
+  "ms": [
+   "ms/43_0.jpg"
+  ]
+ },
+ {
+  "n": 44,
+  "group": "5",
+  "raw": "Fig. 44 f. 46v · PDF p. 105 استخراج مسطرة الاصطرلاب من دستور المقنطرات استخراج المساطر المختلفة من دستور المقنطرات Manuscript Reconstruction استخراج مسطرة الاصطرلاب من دستور المقنطرات. In the dastur square ا ب ج د the side ج د is divided into 60 and joined to ه, the middle of the opposite side; ه ز is the perpendicular to ج د. With the radius of the Capricorn circle of the intended plate, ز ح = ز ط is laid off on ج د and ه ي = ز ح, ه ك = ز ط on ا ب; ي ح and ك ط cut ه ج, ه د at ل, م. By similar triangles ل م equals the diameter of Capricorn and is divided by the rays into 60 parts: it is the ruler (مسطرة) of that astrolabe, from which radii and centre distances taken from the tables are measured. 1 construction check pass",
+  "ms": [
+   "ms/44_0.jpg"
+  ]
+ },
+ {
+  "n": 45,
+  "group": "5",
+  "raw": "Fig. 45 f. 50r · PDF p. 112 استخراج قطر الكرة لعمل الاصطرلاب الكري صنعة الاصطرلاب ذي العنكبوت وغيره (الكري) Manuscript Reconstruction معرفة قطر الكرة (Theodosius, Sphaerics I.19-20). On the sphere a circle ج د ز is drawn about the pole ه with any opening ه ج, and three points ج د ز are marked on it (right: the sphere seen from above ه). In the plane the triangle ج د ز is made from the three chords; perpendiculars to د ج at ج and to د ز at ز meet at ط, so د ط is the diameter of the small circle. Circles about د and ط with the opening ه ج meet at ك; perpendiculars to ك د at د and to ك ط at ط meet at ل: ك ل is the diameter of the sphere. (Opening ه ج = 50° of arc here.) 2 construction checks pass",
+  "ms": [
+   "ms/45_0.jpg"
+  ]
+ },
+ {
+  "n": 46,
+  "group": "5",
+  "raw": "Fig. 46 f. 53r · PDF p. 118 الاصطرلاب الرصدي: الحجرة والحلقة المتحركة ونصف الحلقة عمل الاصطرلاب الملقب بالرصدي Manuscript Reconstruction الاصطرلاب الرصدي: الحجرة والحلقة ونصف الحلقة. The limb (الحجرة) with its throne, without a mater, its two upper quadrants numbered (abjad) from the throne; inside it a ring (الحلقة المتحركة) that can only turn in the limb, divided into 360 and numbered from the right through the handle to the left; and a half-ring divided into 180, numbered from its middle toward both ends, erected at right angles on the ring (shown here folded into the plane, as in the manuscript).",
+  "ms": [
+   "ms/46_0.jpg"
+  ]
+ },
+ {
+  "n": 47,
+  "group": "5",
+  "raw": "Fig. 47 f. 54v · PDF p. 121 وجها صفيحة الاصطرلاب الرصدي عمل الاصطرلاب الملقب بالرصدي Manuscript Reconstruction وجها صفيحة الاصطرلاب الرصدي. Right: the first face. The rim is divided into degrees and numbered from both ends of the horizontal diameter (0) to 90. From the end that stands for the end of Pisces / beginning of Aries, the declinations of the ecliptic degrees are laid off on the rim - northern signs toward the side marked 'north', southern ones toward 'south' - and likewise from the other end (Libra). For each fixed star a line is drawn from the centre to the point of the rim at its declination (north stars above, south below). Left: the second face. Capricorn, Aries and Cancer circles and a small central disc; the lower half is divided by straight lines (every 9° here), each serving as the (lower) meridian of one horizon and as the east-west line of another; for each only the eastern half of the horizon of its latitude is kept, from its north point to Capricorn (latitudes 12°...48°, every 2°).",
+  "ms": [
+   "ms/47_0.jpg"
+  ]
+ },
+ {
+  "n": 48,
+  "group": "5",
+  "raw": "Fig. 48 f. 55r · PDF p. 122 عنكبوت الاصطرلاب الرصدي عمل الاصطرلاب الملقب بالرصدي Manuscript Reconstruction عنكبوت الاصطرلاب الرصدي. A solid plate whose rim touches the half-ring; the three day-circles transferred to it; the ecliptic ring (touching Cancer outside and Capricorn inside) with its inside cut away and bevelled, divided by right ascensions; the hub on the pole joined to the ecliptic by a bar through the equinoxes and a bar to the head of Cancer; a bar along the meridian from the hub to the circle of Aries, divided into 60. A circle about the ecliptic's centre touching the plate's rim holds the sign names; beyond it a slot opposite the northern signs (الخرق) shows the latitude numbers of the horizons beneath. Lines from the centre to the culminating degrees of the stars, each ending in a small tongue at the bevelled rim, which is divided by right ascensions.",
+  "ms": [
+   "ms/48_0.jpg"
+  ]
+ },
+ {
+  "n": 49,
+  "group": "5",
+  "raw": "Fig. 49 f. 55v · PDF p. 123 نصب الاصطرلاب الرصدي على نصف الدائرة ذات القوائم الثلاث عمل الاصطرلاب الملقب بالرصدي Manuscript Reconstruction نصب الاصطرلاب الرصدي: the half-circle stand on three legs. A half-ring (the lower half of a circle, open upward) on a tripod; from its middle rises a pin that enters the hole made in the limb opposite the throne, its point riding in the groove filed round the outside of the limb, so that the instrument stands upright in the plane of the meridian (checked with the plumb line).",
+  "ms": [
+   "ms/49_0.jpg"
+  ]
+ },
+ {
+  "n": 50,
+  "group": "5",
+  "raw": "Fig. 50 f. 57v · PDF p. 127 صفيحة الاصطرلاب المبطخ الشمالي عمل الاصطرلاب المبطخ Manuscript Reconstruction صفيحة الاصطرلاب المبطخ الشمالي (azimuthal-equidistant plate). The radius of the Aries circle is divided into 90 equal parts and the same parts are continued outward (about 25); the circles through them are the day-circles, so that distance from the pole is proportional to polar distance - Cancer at 90-ε, Aries at 90, Capricorn at 90+ε. For each day-circle the half day-arc is counted from the meridian point د on both sides and marked with the alidade: joining the points gives the horizon (an oval, not a circle). Almucantars (every 10°) likewise from the hour angle of each altitude on each day-circle, and the twelve seasonal hours below the horizon from dividing each night arc into twelve. Latitude 36°.",
+  "ms": [
+   "ms/50_0.jpg"
+  ]
+ },
+ {
+  "n": 51,
+  "group": "5",
+  "raw": "Fig. 51 f. 58v · PDF p. 129 تخطيط منطقة البروج في عنكبوت المبطخ عمل الاصطرلاب المبطخ Manuscript Reconstruction عنكبوت الاصطرلاب المبطخ: plotting the ecliptic. On the rete-plate ا ب ج د (centre ه, Capricorn's circle) the point د is the beginning of Capricorn. The right ascension of Capricorn is counted from د on both sides to ح and ز; ح ه and ز ه cut the circle of Aries at ط and ك; from ط and ك outward (the declination being southern) the declination of the beginning of Aquarius / Sagittarius is laid off along the lines, giving ل (head of Aquarius) and م (head of Sagittarius). Likewise for any degree (shown for the 10th degree of Capricorn / 20th of Sagittarius): س, ع on the rim, ف, ص on the Aries circle, and ن, ي at its declination. Joining all such points gives the ecliptic (here computed for every degree and drawn in full).",
+  "ms": [
+   "ms/51_0.jpg"
+  ]
+ },
+ {
+  "n": 52,
+  "group": "6",
+  "raw": "Fig. 52 f. 62r · PDF p. 136 الاصطرلاب الكامل (التسطيح الأسطواني): قطعا دائرتي سمت عمل الاصطرلاب الكامل بالتسطيح الاصطرلابي (الأسطواني) Manuscript Reconstruction الاصطرلاب الكامل بالتسطيح الأسطواني: قطوع دوائر السموت. In Biruni's cylindrical (orthographic) projection onto the equator every great circle becomes an ellipse centred at the centre of the plate, its major axis a diameter of the Aries circle along the line of nodes, its minor semi-axis the cosine of the circle's inclination to the equator. For an azimuth circle at distance A from the east point: cos i = cos φ · cos A and cos(deviation) = sin A / sin i. Arcs د ز, د ح = the deviation measured from the meridian point د; ز ه ط and ح ه ك are the major axes, ن ه ي and م ه ل the diameters at right angles, on which ه ف = ه ص = ه ع = ه س = cos i. The two ellipses are the two azimuth circles with the same azimuth east and west of the meridian; both pass through the zenith (projected at cos φ on ه د). (φ = 36°, A = 20°.) 3 construction checks pass",
+  "ms": [
+   "ms/52_0.jpg"
+  ]
+ },
+ {
+  "n": 53,
+  "group": "6",
+  "raw": "Fig. 53 f. 62v · PDF p. 137 استخراج قوس الانحراف بالطريق الصناعي عمل الاصطرلاب الكامل بالتسطيح الاصطرلابي (الأسطواني) Manuscript Reconstruction استخراج قوس الانحراف والقطر الأقصر بالطريق الصناعي. In the semicircle ا ب س (centre ه): arc ا ب = the complement of the latitude, arc ب ج = the distance of the azimuth circle from the east point. ج د perpendicular to ب ه; د ز parallel to ا ه س; ز ح perpendicular to ا ه س. Join ز ه; take ه ط = ج د; ط ك perpendicular to ا ه س meets ز ه at ك; ك ل perpendicular to ز ه meets the circle at ل. Then ز ح is the cosine of the inclination (the minor semi-axis) and arc ز ل the arc of deviation - the same values as the calculation (Fig. 52). 2 construction checks pass",
+  "ms": [
+   "ms/53_0.jpg"
+  ]
+ },
+ {
+  "n": 54,
+  "group": "6",
+  "raw": "Fig. 54 f. 63r · PDF p. 138 تخطيط القطع الناقص بالخيط وماسك الخيط تخطيط القطوع الناقصة على السطوح المستوية Manuscript Reconstruction تخطيط القطع الناقص بالخيط (the gardener's construction). ا ب the major and ج د the minor diameter, crossing at the centre ه. With an opening equal to half the major diameter, a circle about ج (or د) cuts ا ب at ح and ز, the two ends of the 'string-holder' (ماسك الخيط): ه ح = ه ز = √(ه ا² − ه ج²). A string of length ا ب fastened at ح and ز and kept taut by the scriber traces the ellipse (ح ن + ن ز = ا ب for every point ن). Drawn for ا ب : ج د = 5 : 3. 2 construction checks pass",
+  "ms": [
+   "ms/54_0.jpg"
+  ]
+ },
+ {
+  "n": 55,
+  "group": "7",
+  "raw": "Fig. 55 f. 65r · PDF p. 142 تسطيح المدارات باختلاف موضع قطب التسطيح (الصغاني) تسطيح المدارات في شمالي الاصطرلاب وجنوبيه باختلاف قطب التسطيح Manuscript Reconstruction تسطيح المدارات باختلاف قطب التسطيح (al-Saghani). Section of the sphere by the meridian: ح ك ي م, the axis ك ه م produced both ways, ح ه ي the trace of the equator plane. Arcs ح ط, ح د = the greatest declination; ط ل ز and د س ج (parallel to ح ه ي) are the diameters of the tropics. From the usual pole ك the lines to ط, ح, د cut ه ح (produced) at the radii of Cancer, Aries and Capricorn (red). Moving the pole outward to ا changes the radii (dashed): Aries and Capricorn become equal when ا ح passes through د (ك ا = cot(ε/2) − 1), and beyond that Capricorn falls between Aries and Cancer. Poles between the centres س and ل of the tropics are to be avoided: the ecliptic would become a hyperbola. (Pole ا drawn at ه ا = 2.2.) 1 construction check pass",
+  "ms": [
+   "ms/55_0.jpg"
+  ]
+ },
+ {
+  "n": 56,
+  "group": "7",
+  "raw": "Fig. 56 f. 66r · PDF p. 144 التسطيح التام: الأفق والمقنطرات والقطب داخل الكرة (الصورة الأولى الشمالية) الإخبار عن كيفية تشكل الأفق والمقنطرات في كل واحد من نوعي الاصطرلاب Manuscript Reconstruction الصورة الأولى الشمالية: how the horizon and the almucantars are shaped when the pole of projection ع lies inside the sphere on the axis (al-Saghani's 'perfect' projection). Left, the meridian section: ك ج = the latitude; ج ه د the diameter of the horizon; ز ط an almucantar cutting both the axis and the equator; ل م the almucantar through the pole of motion م; ص س an almucantar higher than the latitude. Lines from ع to the ends of the diameters decide the shape: the plane through ع parallel to the equator (dashed) - if it misses the circle the image is an ellipse, if it touches it a parabola, if it cuts it a hyperbola (the right/acute/obtuse angle at ع of the text). Right, the resulting plate computed exactly for ه ع = 0.5, φ = 36°: the horizon and the lower almucantars are hyperbolas, the 24° almucantar a parabola (bold, red), the higher ones ellipses; the tropics and the equator remain circles. 1 construction check pass",
+  "ms": [
+   "ms/56_0.jpg"
+  ]
+ },
+ {
+  "n": 57,
+  "group": "7",
+  "raw": "Fig. 57 f. 66v · PDF p. 145 التسطيح التام للاصطرلاب الجنوبي: الصورتان الثانية والثالثة الإخبار عن كيفية تشكل الأفق والمقنطرات في كل واحد من نوعي الاصطرلاب Manuscript Reconstruction الصورة الثانية الجنوبية والصورة الثالثة. For a southern astrolabe the pole of projection ع lies on the axis toward the north pole م. Middle: the same diameters as in Fig. 56, now joined to ع; the plane through ع parallel to the equator (dashed) again decides between ellipse, parabola and hyperbola. Left (the third figure): an almucantar whose diameter produced passes through the pole ع is projected as a straight line parallel to the east-west line; here φ = 36°, ه ع = 0.5, so that almucantar is h = arcsin(ه ع · sin φ) = 17.1°. Right: the resulting southern plate (clipped at Cancer), showing that straight line (red) among the conics. 1 construction check pass",
+  "ms": [
+   "ms/57_0.jpg"
+  ]
+ },
+ {
+  "n": 58,
+  "group": "7",
+  "raw": "Fig. 58 f. 67v · PDF p. 147 استخراج قطري القطع الناقص في التسطيح التام استخراج قطري القطع الناقص Manuscript Reconstruction استخراج قطري القطع الناقص (the two diameters of the ellipse, after Abu Hamid al-Saghani). Right: the meridian section (مدار الحمل) with the axis ك ه م, the trace ح ه ي of the equator plane, the pole of projection ع inside the sphere and the diameter ز ط of a circle of the sphere standing on the meridian plane (here the 24° almucantar of latitude 52°, ز at 104°, ط at -28°; ه ع = 0.55). ع ز and ع ط cut ح ي at س and ب, so س ب is the diameter of the image on the meridian line (قطره المجانب); ع ص ⊥ ع ه meets ط ز produced at ص (outside ز ط: the angle ز ع ه is acute, hence an ellipse). Left: the proportion figure. ا ج = ع ص, ج د = ص ط on one line, ا ل = ص ز on the other (here at a right angle, as drawn); د ف ∥ ج ل gives ل ف = ص ز·ص ط / ع ص; ج ن = ل ف; ا و = س ب; ن ش ∥ ج و gives و ش = س ب·ص ز·ص ط / ع ص², the latus rectum (Apollonius I.13). ب bisects ا و, ب ث = ½ و ش, and the perpendicular ب ص to ا ث meets the semicircle on ا ث at ص: ب ص² = ½س ب · ½و ش, half the other (east-west) diameter. Here و ش < ا و, so س ب is the major axis and the ellipse is upright (منتصب), as the text says for a pole inside the sphere. Verified: ع ز س, ع ط ب, ص ز ط collinear; the kind is 'ellipse'; و ش equals the latus rectum 2b²/a of the exact image of the 3-D circle (projected with lib/gproj), and 2·ب ص its exact east-west axis; the image satisfies the conic equation to 1e-12. Letters: the manuscript writes ب both for the foot of د ∥ ج ل (د ب, ل ب) and for the midpoint of ا و (عمود ب ص); the drawing has only the second one (with the line to ص). The first is called ف here, with the edition. The manuscript's drawing is not to scale (ج د drawn much shorter than ص ط); here all lengths are true, so the proportion figure is taller than the circle. The unexplained line ع ي of the manuscript drawing is omitted. 12 construction checks pass",
+  "ms": [
+   "ms/58_0.jpg"
+  ]
+ },
+ {
+  "n": 59,
+  "group": "7",
+  "raw": "Fig. 59 f. 68v · PDF p. 149 عمل الأفق أو المقنطرة قطعا ناقصا: الصورتان الأولى والثانية عمل الأفق أو المقنطرة قطعا ناقصا لاصطرلاب شمالي Manuscript Reconstruction عمل الأفق أو المقنطرة قطعا ناقصا لاصطرلاب شمالي: the two figures (الأولى right, الثانية left) of the ellipse case, with the pole of projection ع placed so that the angle between ع ز (ز the nearer end of the diameter) and ع ه is acute. Procedure (both figures): ع ز produced meets ي ه ح at س, ع ط meets it at ب, so س ب is one diameter of the image (on the meridian line). A point ا on ز ط; ا ج ⊥ ز ط up to the circle standing on ز ط (in the first figure the meridian circle itself, because ز ط is a diameter of the sphere; in the second the semicircle ز ج ط); ع ا meets ح ي at ل; perpendiculars ا د = ا ج and ل ن to ع ا ل, with ع د ن straight; ل ف ⊥ ح ي equal to ل ن. ل ف is an ordinate of the image conic and ف a point of it (the east-west direction of the plate is turned into the drawing plane). The line ع ص ⊥ ع ه drawn in the manuscript (ص on ط ز produced) is kept. First figure: the horizon of latitude 64° (ك ز = 64°), ه ع = 0.67 inside the sphere, ا at 0.65 of ز ط (beyond ه, so ل falls between ع and ا, as drawn). Second figure: the 34° almucantar of latitude 46°, ه ع = 1.2 outside the sphere, ا at 0.6 of ز ط (as drawn; with ا at the midpoint the text would have ل ف as half the other diameter). Verified: collinearities; the kind is 'ellipse'; ف coincides with the exact plate image (lib/gproj) of the circle point over ا; the image satisfies the ellipse equation; the dashed grey half-ellipses are the exact images, computed independently, and pass through س, ف, ب. Exactness of the text: 'if ا is the midpoint of ز ط, ل ف is half the other diameter' is only approximately true - the centre of the ellipse is the midpoint of س ب, not the image ل of the circle's centre. For the circle of the second figure the ordinate at the image of the midpoint is 0.621 while the true half east-west axis is 0.665 (the ordinate through the centre of the ellipse); for the horizon of the first figure (ا at ه, so ل = ه) it is the radius of the equator, 1, against 1.322. The text's rule on the lie of the ellipse holds in both: pole inside -> the long axis is س ب on the meridian (منتصب, a = 1.57, b = 1.32); pole outside -> the long axis is east-west (مضطجع, a = 0.633, b = 0.665). 12 construction checks pass",
+  "ms": [
+   "ms/59_0.jpg"
+  ]
+ },
+ {
+  "n": 60,
+  "group": "7",
+  "raw": "Fig. 60 f. 69r · PDF p. 150 الضلع القائم للقطع المكافي بطريق آخر طريق آخر في تخطيط القطع المكافي Manuscript Reconstruction طريق آخر في تخطيط القطع المكافي: the latus rectum of the parabola by two fourth proportionals. Right (added, same scale): the 'preceding figure' for the parabola case - the horizon of latitude 64° (as in Fig. 59, الصورة الأولى) with the pole of projection ع at the foot of the perpendicular ز ع on the axis (ه ع = cos 64°), so the plane through ع parallel to the equator touches the circle at ز and the horizon becomes a parabola with vertex ب (ع ط ∩ ح ي) and axis ب ح; the dashed grey curve is that parabola, computed with lib/gproj and turned into the drawing plane. Left (the manuscript's figure): on one line from ا: ا ج = ز ط, ا د = ط ع, ا و = ب ع; on the other, drawn at any angle: ا ل = ز ع. د ف ∥ ج ل gives ا ف = ز ع·ط ع / ز ط; ف ن = ا ج; ن س ∥ ف و gives و س = ب ع·ز ط² / (ز ع·ط ع), the latus rectum (Apollonius I.11). Verified: و س equals the latus rectum of the exact image of the horizon (2.2252 = 2 / sin φ; the image satisfies the parabola equation to 1e-13); the parallels; ز ع ⊥ the axis; ع, ب, ط collinear. Text: the manuscript writes 'ج د مساويا لـ ط ع' and 'ج و مساويا لـ ب ع' (the edition is more corrupt still). Read literally the construction gives 3.592 instead of 2.2252; only with ا د = ط ع and ا و = ب ع (ج -> ا twice) does it yield the latus rectum, and this reading also explains 'ف ن مساويا لـ ا ج'. The emended construction is drawn. In consequence the order of the points differs from the manuscript drawing (ا ج د و س on the upper line, ل ف ن on the slanted one): with true lengths ط ع < ز ط and ب ع < ط ع, so the upper line reads ا و د ج س and the slanted one ا ف ل ن. The letters and the four transversals (ج ل, د ف, ف و, ن س) are the manuscript's. 9 construction checks pass",
+  "ms": [
+   "ms/60_0.jpg"
+  ]
+ },
+ {
+  "n": 61,
+  "group": "7",
+  "raw": "Fig. 61 f. 69v · PDF p. 151 تخطيط القطع المكافي بالدوائر على سهمه طريق آخر في تخطيط القطع المكافي Manuscript Reconstruction points of the parabola by circles on its axis (طريق آخر في تخطيط القطع المكافي, continued). ب ح is the axis and ب the vertex of the parabola of Fig. 60 (the horizon of latitude 64° projected from ع at the foot of ز ع), drawn apart 'so that the lines are not mixed and the letters confused'. On the axis take ط (ب ط = 1.78) and ط ه equal to the latus rectum (2.2252 = 2/sin 64°, from Fig. 60); the circle on ب ه cuts the perpendicular at ط in ص and س, points of the parabola, since ط ص² = ب ط · ط ه (= abscissa × latus rectum). Likewise ل (ب ل = 3.34), ل م = latus rectum, the circle on ب م cuts the perpendicular at ل in ز and ك. The black curve joins the points ('وكذلك نفعل ونقارب بين مخارج الأعمدة ... فيظهر منها محيط القطع'). Verified: ص, س, ز, ك satisfy y² = p·x and lie on the circles; the curve is the exact image of the horizon computed with lib/gproj (turned so that ب ح is horizontal): every projected point satisfies y² = p·x to 1e-12 and ص, ز lie on the projected polyline. The manuscript drawing is not to scale: ط ه and ل م are unequal there and both perpendiculars are carried up to the larger circle; here ص س lie on the smaller circle, as the text requires. 6 construction checks pass",
+  "ms": [
+   "ms/61_0.jpg"
+  ]
+ },
+ {
+  "n": 62,
+  "group": "7",
+  "raw": "Fig. 62 f. 70r · PDF p. 152 عمل الأفق أو المقنطرة قطعا زائدا: الصورتان الأولى والثانية عمل الأفق أو المقنطرات قطعا زائدا للاصطرلاب الشمالي Manuscript Reconstruction عمل الأفق أو المقنطرات قطعا زائدا للاصطرلاب الشمالي: the two figures of the hyperbola case (الأولى right, الثانية left). The pole of projection ع is put on the axis inside the sphere so that ع and the nearer end ز of the diameter make an obtuse angle with the axis toward the centre (ع ز ه obtuse at ع): the plane through ع parallel to the equator then cuts the circle and its image is a hyperbola. Procedure: ز ع produced beyond ع meets ي ه ح at س, ع ط meets it at ب; ب is the vertex of the branch that is drawn, ل ح its axis, س ب the transverse diameter (الضلع المائل / القطر المجانب). ا on ز ط; ا ج ⊥ ز ط up to the circle on ز ط (the meridian circle in the first figure, the semicircle ز ج ط in the second); ع ا produced meets ح ي at ل; ا د = ا ج and ل ن perpendicular to ع ا ل, with ع د ن straight; ل ف ⊥ ح ي equal to ل ن, an ordinate of the hyperbola, ف a point on it. First figure: the horizon of latitude 36° (ك ز = 36°), ه ع = 0.62, ا at 0.35 of ز ط. Second figure: the 17° almucantar of latitude 39° (ز at 124°, ط at -22°), ه ع = 0.40, ا at 0.30 of ز ط; this configuration also supplies the lengths used in Fig. 63 and Fig. 64. Verified: collinearities; the kind is 'hyperbola'; ف coincides with the exact image (lib/gproj) of the circle point over ا; the dashed grey curve, the exact image of the circle (branch through ب, turned into the drawing plane), passes through ب and ف; the horizon's latus rectum is 2/sin φ. The manuscript does not draw ل ف (nor ف); both are added from the text. The point ف lies outside the circle, as it must. 11 construction checks pass",
+  "ms": [
+   "ms/62_0.jpg"
+  ]
+ },
+ {
+  "n": 63,
+  "group": "7",
+  "raw": "Fig. 63 f. 70v · PDF p. 153 استخراج الضلع القائم للقطع الزائد بالنسبة (لأبي نصر بن عراق) وجه آخر في تخطيط القطع الزائد لأبي نصر منصور بن علي بن عراق في كتاب السموت Manuscript Reconstruction the latus rectum of the hyperbola by proportion (وجه آخر في تخطيط القطع الزائد, after Abu Nasr Mansur ibn ʿIraq, Kitab al-Sumut). The lengths are those of the preceding figure, Fig. 62 (الصورة الثانية: the 17° almucantar of latitude 39°, ز at 124°, ط at -22°, ه ع = 0.40), where ص is the point in which the line through ع parallel to the plate (ع ص ⊥ ع ه) meets the diameter ز ط - between ز and ط, since the section is a hyperbola. ص is not drawn in Fig. 62 (nor in the manuscript's figure on f.70r), so a reduced copy of that section with ع ص added is set beside the proportion figure as a reminder. Proportion figure (true lengths, unit = Fig. 62's sphere radius): on the straight line ا د, ا ح = ع ص (0.700) and ح د = ص ط (1.708); on the second line, drawn from ا 'at any angle' (72° as in the manuscript), ا ل = ص ز (0.205). ح ل is joined and د ف drawn parallel to it, so ل ف = ص ز·ص ط / ع ص (0.500); ح ن = ل ف, ا و = س ب (1.970); ح و is joined and ن س drawn parallel to it, so و س = س ب·ص ز·ص ط / ع ص² (1.406), the latus rectum (الضلع القائم، المنتصب): Apollonius I.12, transverse side : upright side = ع ص² : ز ص·ص ط. Verified: ص lies on ز ط between ز and ط and ع ص ⊥ ع ه; ع ز س, ع ط ب straight; the two parallels give ل ف and و س as stated; و س equals 2b²/a of the exact image of Fig. 62's circle (projected with lib/gproj, conic residual < 1e-9); and Fig. 62's own ordinate ل ف (from ا at 0.30 of ز ط) satisfies ordinate² = و س·x + (و س / س ب)·x², x its distance from the vertex ب. Letters: the drawing writes the right end of ا د as a dotless round-bowl ن (ں, as the text's ح ن) and the end of the upright side as س (text of the manuscript: ن س, و س); the edition has ن ش, و ش. The manuscript's red letters for the second length read like ط ع and for ا ل like ص د; the geometry requires ط ص and ص ز (as the edition). The manuscript's drawing is not to scale: it puts ن beyond د (which would need ص ز > ع ص) and و before ف; with the true lengths of Fig. 62 ن falls between ح and د and ف before و, so د ف crosses ح و and ن س here. 11 construction checks pass",
+  "ms": [
+   "ms/63_0.jpg"
+  ]
+ },
+ {
+  "n": 64,
+  "group": "7",
+  "raw": "Fig. 64 f. 71r · PDF p. 154 تخطيط القطع الزائد بالضلع القائم والقطر المجانب مع الخطين اللذين لا يلقيانه وجه آخر في تخطيط القطع الزائد لأبي نصر منصور بن علي بن عراق في كتاب السموت Manuscript Reconstruction points of the hyperbola from its transverse diameter and latus rectum, with its asymptotes (Ibn ʿIraq's method, continued). The hyperbola is that of Fig. 62 (الصورة الثانية) and Fig. 63: the axis ل ح of Fig. 62 is set apart (and turned so that the branch opens downward, as drawn); ب is its vertex, ب ا = half the transverse diameter س ب (a = 0.985) and ب ج = half the latus rectum و س found in Fig. 63 (p/2 = 0.703). The circle on ا ج cuts the perpendicular to the axis at ب in د and ه, so ب د² = ب ا·ب ج = a·p/2 = b² (b = 0.832): ا is the centre, and ا ه ر, ا د ط produced are the lines that approach the section and never meet it (the asymptotes). On the axis ح is taken (ا ح = 2.05, about twice ب ا as drawn); the perpendicular ط ح ر meets the asymptotes at ط, ر, so ح ط = ا ح·b/a; on ط ر a semicircle; ط ي, ر ك ⊥ ط ر, each equal to د ب; ي ك cuts the semicircle at ل, م; the perpendiculars ل س, م ص give ح س² = ح ط² - b², i.e. (ا ح/a)² - (ح س/b)² = 1: س and ص lie on the hyperbola whose vertex is ب and whose asymptotes are ا ط, ا ر. Verified: ب د = b of the exact image of Fig. 62's circle, and 2·ب ج its latus rectum (as computed by the proportion of Fig. 63); ا ه ر, ا د ط straight and the asymptotes' slope is b/a; ل, م on the semicircle and on ي ك; س, ص satisfy the equation of the hyperbola and lie on the exact projected image of Fig. 62's circle (lib/gproj), carried into this frame; the black branch (drawn from the equation) stays strictly between the asymptotes. The manuscript does not draw the hyperbola itself (only ب, س, ص); it is added in black. In the manuscript the semicircle on ط ر passes through ه and د - an accident of its proportions (the text does not claim it); with the true a, b of Fig. 62 it passes above them. Letters: the drawing's ب (centre of د ه) is the edition's ن (the manuscript text has ب ا and, it seems, ب ج); the drawing's dotless letter at the foot of the circle is ج (ح being the lower point); the edition's ا ه ز, ط ح ز are ا ه ر, ط ح ر in the manuscript text and drawing (ر at the lower left corner). 11 construction checks pass",
+  "ms": [
+   "ms/64_0.jpg"
+  ]
+ },
+ {
+  "n": 65,
+  "group": "7",
+  "raw": "Fig. 65 f. 72v · PDF p. 157 صورة البركار التام عند هذه الحيل لإيجاد الحركات المذكورة فيه حكاية البركار التام وصفة حركاته Manuscript Reconstruction the perfect compass of Abu Sahl al-Kuhi (البركار التام) with the contrivances that give it its three motions (\"صورة البركار التام عند هذه الحيل لإيجاد الحركات المذكورة فيه\"), two sketches arranged as on the page. Upper sketch - the geometry of the compass. ب ا is the base (القاعدة, in the drawing plane), ر ه the scriber (المخط), the inclined line the axis (المحور) joining them; its angle with the base is the 'centre angle' and its angle with the scriber the 'head angle' (زاويتا المركز والرأس, used in Fig. 67, Fig. 68, Fig. 70). Drawn as in the manuscript with the scriber parallel to the base, the axis (length L = 1) leaning at 56 deg as drawn (the manuscript's leg is at about 56.5 deg). Asserted: ر ه is parallel to ب ا; the head angle equals the centre angle (alternate angles), which is exactly the parabola setting of the compass (Fig. 68): with util_kuhi, a = infinity and the sampled cone section satisfies y^2 = 2 p x. Letters: the drawing puts ح on the scriber line and د on the base; in the text (and so in the edition) ح is the centre of the compass on the base ا ب (angles د ح ا, د ح ب) and د its head, through which the scriber ه د ر passes (angles ه د ح, ر د ح). The drawing's letters are kept. Lower sketch - the instrument in side view, axis upright as in the manuscript: the base (القاعدة) with a stand; the hinge (نرماذجة) at the centre, about which the axis turns in the vertical plane (centre angle); the male-and-female joint (الذكر في الأنثى) on the axis, which lets the upper half (toward the head) turn about the axis while the lower half stays fixed (first motion); the hinge (نرماذجة) at the head, about which the tube turns in the plane of the axis (head angle, second motion); the tube (الأنبوب) in which the scriber (المخط) slides along itself (third motion). The manuscript draws the scriber as a long line above a short line (the tube); here the scriber is drawn running through the tube and the head hinge is placed on the scriber's line, as the text requires (the scriber 'passes through the head'). Asserted: the head pivot lies on the scriber line and on the axis, the tube is coaxial with the scriber, the axis is perpendicular to base and scriber, and the joint lies on the axis between the two hinges. A faint red letter beside the lower hinge reads ح (the centre, in agreement with the text); it is reproduced in red. The blot near د in the upper sketch is not a letter. The weight near the scriber's head mentioned in the text is not drawn in the manuscript and is omitted. 9 construction checks pass",
+  "ms": [
+   "ms/65_0.jpg"
+  ]
+ },
+ {
+  "n": 66,
+  "group": "7",
+  "raw": "Fig. 66 f. 73r · PDF p. 158 نسبة مربع محور البركار إلى مربع نصف القطر المجانب (القطع الناقص) عمل القطع الناقص بالبركار التام Manuscript Reconstruction the ratio figure for the ellipse drawn with the perfect compass. ا ب is made equal to the axis of the compass (L) and ب ج, at right angles to it, to half the transverse diameter (a) of the required ellipse; ج د is drawn perpendicular to ا ج and meets ا ب produced at د. Since ج ب is the altitude of the right triangle ا ج د, ب ج^2 = ا ب . ب د, so that ا ب : ب د = (axis)^2 : (half transverse diameter)^2 - the ratio used in the next construction (Fig. 67). Drawn with the parameters of Fig. 67: a = 1, L = 0.7 (so ب د = a^2/L = 1.43). The manuscript sketches a flatter triangle (ا ب about twice ب ج); the proportions here are forced by the compass that Fig. 67 actually computes. 1 construction check pass",
+  "ms": [
+   "ms/66_0.jpg"
+  ]
+ },
+ {
+  "n": 67,
+  "group": "7",
+  "raw": "Fig. 67 f. 73v · PDF p. 159 استخراج زاويتي البركار التام للقطع الناقص، ومثلث النسبة للقطع المكافي عمل القطع الناقص بالبركار التام / عمل القطع المكافي بالبركار التام Manuscript Reconstruction finding the two angles of the perfect compass for a given ellipse, and (below) the ratio figure for the parabola. Top (عمل القطع الناقص بالبركار التام). ا ب = the transverse diameter 2a, ب ج (toward ا) = the latus rectum 2p. On the perpendicular at ا: ا د = ب د and د ه = ا ب of the ratio figure Fig. 66, so ا د : د ه = a^2 : L^2; ه ر parallel to د ب gives ب ر = 2L^2/a. ر ح = ب ط = ا ج. Semicircles on ا ط and ا ح; ب ى perpendicular to ا ط (ب ى^2 = ا ب.ب ط); م the middle of ا ح; م ك = ب ى; ك ل perpendicular up to the semicircle on ا ح; م س = ك ل. Semicircle on س ب; ج ع perpendicular to it; ب ع و and ع س ص produced to the perpendicular at ا; the circle on و ص passes through ع and cuts ا ب at ق. Then the head angle (arm-axis) = س ع ق and the centre angle (base-axis) = ع س ق (so the manuscript; the printed edition has ع ص ق). Why it works: ب س = s satisfies s(s - 2(p - L^2/a)) = 4L^2, i.e. sin^2(centre angle) = ب ج / ب س, the exact condition for the cone of the compass (apex at the head, height L sin(alpha), p = L sin(alpha) tan(beta)). Verified: the angles equal those obtained by solving the cone equations directly, and the section of that cone by the plane is the ellipse with semi-axis a and semi-latus rectum p (residual < 1e-12). Drawn for a = 1, p = 0.3, L = 0.7: centre angle 44.47 deg, head angle 31.46 deg. L/a = 0.7 agrees with the manuscript's own proportions here (ا د : د ه and ب ر imply L ~ 0.6a). The manuscript drawing is only roughly to scale (e.g. its ر ح = ب ط is visibly shorter than ا ج, and its م lies between ب and ج, whereas with these values م falls just beyond ب). Bottom: the ratio figure for the parabola (عمل القطع المكافي): ا ب = axis, ب ج = half the latus rectum, ج د perpendicular to ا ج, so that د ب : ب ا = (half latus rectum)^2 : (axis)^2; drawn for p/L = 0.7 as in Fig. 68. 8 construction checks pass",
+  "ms": [
+   "ms/67_0.jpg",
+   "ms/67_1.jpg"
+  ]
+ },
+ {
+  "n": 68,
+  "group": "7",
+  "raw": "Fig. 68 f. 74r · PDF p. 160 استخراج زاويتي البركار التام للقطع المكافي عمل القطع المكافي بالبركار التام Manuscript Reconstruction the angles of the perfect compass for a parabola (عمل القطع المكافي بالبركار التام), with a small side sketch. On any straight line ز ه, ز ح is drawn at any angle equal to the axis of the compass (ب ا of the ratio figure, Fig. 67 bottom) and ح ط in line with it equal to ب د there, so that ز ح : ح ط = (axis)^2 : (half latus rectum)^2; ح ه is joined and ط ى drawn parallel to it, so ه ى = ز ه . t^2 with t = p/L. The semicircle ز ك ى and the perpendicular ه ك give ه ك = t . ز ه; ل bisects ه ى and the arc about ل with radius ل ك falls on ز ه at م, so that ز م / ز ه = 1 + t^2/2 - t sqrt(1 + t^2/4) = cos^2(alpha), where cos(alpha) is the root of c^2 + t c - 1 = 0. The semicircle ز س ه and the perpendicular م س give cos(س ز م) = ز س / ز ه = cos(alpha). Both angles of the compass (head and centre) are set equal to س ز م; the cone then has one generator parallel to the plane and its section is the parabola with p = L sin(alpha) tan(alpha). Verified: س ز م equals the angle solved from the cone, and the sampled section satisfies y^2 = 2 p x (residual < 1e-12). Drawn for p/L = 0.7 (ز ه = 1): alpha = 44.81 deg (the manuscript's س ز م is about 45 deg). The manuscript's own proportions are not consistent (its ح ط : ز ح is about 0.42, its ه ى : ز ه about 0.62; both should be t^2); t^2 = 0.49 lies between. Upper left, in black ink as in the manuscript: a small sketch not described in the text - a semicircle on ا د with ه on it, ح on ا د with ا ح = ا ه, and ح ر perpendicular to ا ر. It is drawn with ∠ه ا د = the compass angle alpha (as the manuscript's 44 deg suggests) and ∠د ا ر = 21.5 deg as drawn; its purpose is uncertain (perhaps a reader's sketch). 7 construction checks pass",
+  "ms": [
+   "ms/68_0.jpg"
+  ]
+ },
+ {
+  "n": 69,
+  "group": "7",
+  "raw": "Fig. 69 f. 74v · PDF p. 161 نسبة مربع محور البركار إلى مربع نصف القطر المجانب (القطع الزائد) عمل القطع الزائد بالبركار التام Manuscript Reconstruction the ratio figure for the hyperbola drawn with the perfect compass (عمل القطع الزائد بالبركار التام). As for the ellipse (Fig. 66): ا ب = the axis of the compass (L), ب ج at right angles = half the transverse diameter (a), ج د perpendicular to ا ج meets ا ب produced at د; then ب ج^2 = ا ب . ب د and ا ب : ب د = (axis)^2 : (half transverse diameter)^2. Drawn with the parameters of the hyperbola of Fig. 70: a = 1, L = 0.9 (ب د = a^2/L = 1.11). The manuscript sketches a flat triangle (ا ب about 2.8 ب ج), but its own construction figure (Fig. 70, ر ه : ه د) implies L < a. 1 construction check pass",
+  "ms": [
+   "ms/69_0.jpg"
+  ]
+ },
+ {
+  "n": 70,
+  "group": "7",
+  "raw": "Fig. 70 f. 75r · PDF p. 162 استخراج زاويتي البركار التام للقطع الزائد عمل القطع الزائد بالبركار التام Manuscript Reconstruction finding the two angles of the perfect compass for a given hyperbola (عمل القطع الزائد بالبركار التام), with one step corrected. On a straight line ا ب = the transverse diameter 2a, ب ج = the latus rectum 2p, ا د = the latus rectum (so د ج = ا ب). د ه at any angle = ب د of the ratio figure (Fig. 69) and ه ر in line with it = ا ب there, so ر ه : ه د = L^2 : a^2; ه ج joined and ر ط drawn parallel, so ج ط = 2L^2/a. The semicircle د ح ط and the perpendicular ج ح give ج ح = 2L; ى bisects ط ب (ب ى = p + L^2/a). The arc about ى reaching the line at ك must have the radius sqrt(ى ب^2 + ج ح^2) (Euclid II.6: then ب ك . ط ك = ج ح^2 = 4L^2, the exact condition sin^2(centre angle) = ب ج / ب ك for the compass's cone). The text (and the drawing) take the radius ى ح instead; that gives angles for a hyperbola of the right shape (eccentricity) but the wrong size (here a = 1.22, p = 1.10 instead of 1 and 0.9), and no choice of ا د repairs it. So here ج ح is carried parallel to the line to ن, above ط (ط ن = ج ح), and the arc is drawn about ى through ن (red); the text's arc through ح is shown grey dashed, ending at ك'. Then: the semicircle ب ل ك cuts the perpendicular at ل; the perpendicular to ك ا at ا meets ك ل produced at م and ل ب produced at س; the circle on م س passes through ل and cuts ك ا at ع (ا ع^2 = ا ب . ا ك). Head angle = ك ل ع, centre angle = ل ك ع. Verified: these equal the angles solved from the cone equations, and the cone's section is the hyperbola with a = 1, p = 0.9 (residual < 1e-12). Drawn for a = 1, p = 0.9, L = 0.9: centre angle 40.94, head angle 56.77 deg (the text's arc would give 45.72 and 59.57). L^2 is taken close to a p so that ى falls next to ج, as in the manuscript. With the corrected (longer) arc ل lies above ح; in the manuscript, drawn with the text's shorter arc, it lies below. The manuscript is not to scale: its ا د is much shorter than ب ج. 8 construction checks pass",
+  "ms": [
+   "ms/70_0.jpg"
+  ]
+ },
+ {
+  "n": 71,
+  "group": "7",
+  "raw": "Fig. 71 f. 76r · PDF p. 164 عمل المقنطرة في الاصطرلاب الجنوبي خطًا مستقيمًا عمل المقنطرة في الاصطرلاب الجنوبي خطًا مستقيمًا (وبه تم ذكر أشكال الآفاق والمقنطرات) Manuscript Reconstruction عمل المقنطرة في الاصطرلاب الجنوبي خطًا مستقيمًا: in al-Saghani's 'perfect' projection (southern astrolabe, pole of projection ع on the axis toward the north pole م) an almucantar whose diameter ط ل in the meridian section, produced if need be, passes through ع is projected as a straight line. Both drawings are meridian sections (ك ه م the axis, ح ه ي the trace of the equator plane) and, at the same time, the plate: the circle is also the equator (مدار الحمل, which projects onto itself), ح ي the meridian line of the plate, and the east-west direction is turned into the drawing parallel to م ك. The text: the image is the straight line through س, the intersection of ط ل with ح ه, parallel to م ك (the bold chord). Right (الأولى): ع inside the sphere - latitude 36 deg, almucantar 21 deg, so ه ع = sin h / sin phi = 0.61. Left (الثانية): ع outside, where ط ل and م ك meet when produced - latitude 18 deg, almucantar 24 deg, ه ع = 1.32. The two latitudes differ because the manuscript's own drawings do (its chords lie at about 37 deg and 17 deg to the axis, i.e. latitudes of about 36-37 and 17 deg); with one latitude the second case needs an almucantar higher than the latitude, far from the manuscript's picture. Asserted: ع on the axis at sin h / sin phi and on the line ط ل (inside / outside the circle); س = ط ل x ح ي at sin h / cos phi; the almucantar's plane contains ع; the almucantar computed in 3-D and projected from ع with lib/gproj.proj (south) gives points whose meridian coordinate is exactly that of س (a straight line parallel to the east-west line), and the equator projects onto the drawn circle. In the first case the arc in front of the pole covers the whole line; in the second the image is the finite segment |u| <= ع س . cos h / sqrt(d^2 - cos^2 h) (d = distance of ع from the almucantar's centre; here 1.48), longer than the chord shown. Letters as in the drawing (the second figure has no ه). The edition's 'مارًا على تقاطع ظل – ه ح – وهو نقطة – س – م ك' is in the manuscript '...على تقاطع ط ل ح ه وهو نقطة س موازاة م ك'. 11 construction checks pass",
+  "ms": [
+   "ms/71_0.jpg"
+  ]
+ },
+ {
+  "n": 72,
+  "group": "7",
+  "raw": "Fig. 72 f. 76v · PDF p. 165 مقدمتا أبي حامد الصاغاني لتسطيح دوائر السموت: وضع الخط المعدل، وميل السمت مقدمات لتسطيح الدوائر التي تحد السموت Manuscript Reconstruction the two premises (مقدمتان) of al-Saghani for projecting the azimuth circles, in the meridian section (circle = meridian, ك ه م the axis with the north pole م, ح ه ي the equator, ر ه ط the horizon, س the zenith); latitude 30 deg in both. Top, first premise (وضع الخط المعدل): arc ر ص = the complement of the circle's distance from the equinoctial rising point (= its azimuth from the south point, here 60 deg): ص is the horizon point of the azimuth circle turned down into the meridian plane; the perpendicular ص ا gives its foot ا on ر ط and its height ا ص. س ا meets the equator ح ي at ل; ا د is set up perpendicular to س ا equal to ا ص, and the perpendicular ل ن (ن on س د) is the height, above the meridian plane, of the point of the chord (zenith - horizon point) that lies in the equator plane. Laid off as ل ف perpendicular to ح ه (the equator turned about ح ي), it gives ه ف ب: arc م ب is the distance of the circle's node from the east/west point (the 'الخط المعدل'). Asserted: arc م ب equals the node computed in 3-D (49.1 deg). The manuscript puts ن on the circle; it falls just inside it (|ه ن| = 0.958), which the construction does not need. The manuscript leaves ل unlettered and does not draw ه ف ب (added dashed). The arc 'ح ص' of the text (so also the manuscript) must be read ر ص. Bottom, second premise (ميل السمت): arc ط ل = the circle's distance from the equinoctial point on the horizon (here 76 deg, i.e. azimuth 14 deg from the meridian), so ل is the pole of the azimuth circle (on the horizon) turned into the meridian plane; ل د perpendicular to ر ط; د س perpendicular to م د and equal to ل د, so م س is the true distance from the pole م to that pole. A chord equal to م س (dashed) cuts off the inclination of the azimuth circle to the equator. Asserted: 2 asin(م س / 2) equals the angle between the circle's plane and the equator computed in 3-D (77.9 deg). 5 construction checks pass",
+  "ms": [
+   "ms/72_0.jpg",
+   "ms/72_1.jpg"
+  ]
+ },
+ {
+  "n": 73,
+  "group": "7",
+  "raw": "Fig. 73 f. 77r · PDF p. 166 تسطيح دائرة أول السموت في التسطيح التام تسطيح دائرة أول السموت Manuscript Reconstruction تسطيح دائرة أول السموت. Left, the manuscript figure: the meridian section (ك ه م the axis, ح ه ي the equator) with the horizon diameter ر ه ط and the diameter س ه ل through the zenith س and the nadir ل - the common diameter of all the azimuth circles; the prime vertical is the one standing at right angles to the meridian, so its image is made from س ل exactly as the horizon's image is made from ر ط. Added (not in the manuscript): the pole of projection ع (ه ع = 0.8, latitude 30 deg), the line ع ل to the nearer end of س ل, and the trace (dashed) of the plane through ع parallel to the equator. The angle ل ع ه is acute and that plane misses س ل, so the prime vertical becomes an ellipse (a right angle would give a parabola, an obtuse one a hyperbola; a pole outside the sphere gives only ellipses). Right: the plate computed with lib/gproj.py - the prime vertical (bold) is an ellipse through the east and west points of the equator, its vertices the images of the zenith and the nadir. The thin azimuth circles (every 30 deg; the two nearest the meridian are hyperbolas) all pass through both images, because with ه ع > sin 30 deg the nadir lies in front of the plane through ع; the text's remark that non-elliptic images meet at one point only (the zenith) holds when ه ع <= sin φ, i.e. when the prime vertical itself is a parabola or a hyperbola. Asserted: the angle criterion, the 3-D plane test and the kind of the computed curve agree; the vertices of the computed curve are the points where ع س and ع ل meet the equator line ح ي; every drawn azimuth circle passes through both images. 7 construction checks pass",
+  "ms": [
+   "ms/73_0.jpg"
+  ]
+ },
+ {
+  "n": 74,
+  "group": "7",
+  "raw": "Fig. 74 f. 78r · PDF p. 168 عمل دائرة من دوائر الارتفاع (السموت) قطعاً ناقصاً في التسطيح التام عمل دائرة من دوائر الارتفاع معلومة البعد في الأفق عن فلك نصف النهار قطعا ناقصا Manuscript Reconstruction an azimuth circle drawn as an ellipse (قطعاً ناقصاً). Latitude 30 deg; the circle meets the horizon 78 deg from the south point (12 deg from the equinoctial rising/setting point), so by the premises (Fig. 72) arc ك س = arc م ب = 23.0 deg and ميل السمت = 32.1 deg; pole of projection ه ع = 0.8. Right (the first figure, south-eastern quadrant): ه س is laid off from ك toward ي; left (the second, south-western quadrant): from ك toward ح. ج ه د is perpendicular to ه س. The same circle then serves as the section by the plane of symmetry: arcs ح ط = ي ل = ميل السمت, the angle ل ع ه is acute; ع ط cuts ه ح at ر, ع ل produced cuts ه ي produced at ن; ه ص = ه ر and ه ف = ه ن are laid off on ج ه د: the ellipse has the transverse side ص ف and the ordinate ه س (black, computed by projecting the azimuth circle with lib/gproj.py - the manuscript does not draw it). Below left, the latus rectum (الضلع القائم), drawn at 0.55 scale: س ب perpendicular to ص س, ه ا = ه ب on ه س produced, ص ق parallel to ه ا, and ف ا ق a straight line: ص ق is the latus rectum. Asserted: ص and ف are the images of the northern and southern extremes of the 3-D circle, every projected point satisfies the ellipse with axis ص ف through س, ص ق = 2b^2/a (= 2 sec 32.1 deg, the same for every ع), and the acute angle agrees with the 3-D criterion. In the manuscript's left figure the point ر is lettered with a second ص; the right figure leaves it unlettered; the text calls it ر. 3 construction checks pass",
+  "ms": [
+   "ms/74_0.jpg"
+  ]
+ },
+ {
+  "n": 75,
+  "group": "7",
+  "raw": "Fig. 75 f. 78v · PDF p. 169 عمل دائرة من دوائر السموت قطعاً مكافئاً في التسطيح التام عملها قطعا مكافيا Manuscript Reconstruction the same azimuth circle as in Fig. 74 (latitude 30 deg, 78 deg from the south point; arc ك س = 23.0 deg, ميل السمت = 32.1 deg) drawn as a parabola (قطعاً مكافئاً): the pole ع is put where the angle ل ع ه is right, i.e. ه ع = sin 32.1 deg = 0.531, so ع ل is parallel to ح ي and the image of ل goes to infinity. Right, the first figure (south-eastern quadrant); left, the second (south-western). As in the ellipse, ع ط cuts ه ح at ر and ه ص = ه ر is laid off on ج ه: ص is the vertex, ص ه د the axis and ه س an ordinate; the parabola (black) is computed by projecting the 3-D circle with lib/gproj.py (the manuscript does not draw it). Below left, the latus rectum: ص س joined, س ب perpendicular to it: ه ب is the latus rectum (ه س^2 = ص ه . ه ب). Asserted: ص is the image of the circle's northern extreme, ل lies in the plane through ع parallel to the equator, every projected point satisfies v^2 = ه ب (ه ص - u), and ه ب = 2 sec 32.1 deg (the same latus rectum as the ellipse of Fig. 74). The text says 'ونصل ع ص ط', naming the vertex ص directly on ع ط; read, as in the ellipse paragraph, as ع ر ط with ه ص = ه ر (the manuscript's first figure puts ص on ج ه, not on ع ط). In the triangle the manuscript writes د at the end of the axis beyond ب; here too د only names the produced axis. 2 construction checks pass",
+  "ms": [
+   "ms/75_0.jpg"
+  ]
+ },
+ {
+  "n": 76,
+  "group": "7",
+  "raw": "Fig. 76 f. 79r · PDF p. 170 عمل دائرة من دوائر السموت قطعاً زائداً في التسطيح التام عمل قطعها زائدا Manuscript Reconstruction the same azimuth circle as in Fig. 74/Fig. 75 (latitude 30 deg, 78 deg from the south point; arc ك س = 23.0 deg toward ي - first figure, south-eastern quadrant; ميل السمت = 32.1 deg) drawn as a hyperbola (قطعاً زائداً): the pole ع is taken nearer the centre (ه ع = 0.25 < sin 32.1 deg) so that the angle ل ع ه is obtuse. ع ط cuts ه ح at ر; ل ع produced cuts ه ح produced at ن; on ج ه are laid off ه ص = ه ر and ه ا = ه ن: the hyperbola has its vertex at ص, its axis ص ه د, its transverse side (الضلع المائل) ص ا and the ordinate ه س (black: the branch computed by projecting the 3-D circle with lib/gproj.py; not drawn in the manuscript). Below, the latus rectum at 0.35 scale: س ب perpendicular to ص س, ه ج = ه ب on س ه produced, ا ج joined and ص ف drawn parallel to ه ج: ص ف is the latus rectum. Asserted: ص and ا are the images of the two extremes of the circle (ا on the other branch), every projected point satisfies the hyperbola with transverse side ص ا through س, ص ف = 2b^2/a = 2 sec 32.1 deg, and the obtuse angle agrees with the 3-D criterion. Text and drawing: both say 'ل ع produced meets ج د at ا' and 'join ع ص ط', i.e. they take ص and ا directly where the lines from ع cut ج د, and the manuscript draws ل ع perpendicular to ك م (the parabola condition) although the text asks for an obtuse angle. The lines from ع must be cut by the equator trace ح ي and the distances carried to ج د, as the ellipse paragraph does (ه ص = ه ر, ه ف = ه ن); that is drawn here, with ر and ن added. 2 construction checks pass",
+  "ms": [
+   "ms/76_0.jpg"
+  ]
+ },
+ {
+  "n": 77,
+  "group": "7",
+  "raw": "Fig. 77 f. 80r · PDF p. 172 استخراج رؤوس الكواكب الثابتة في العنكبوت بالتسطيح التام (الطريق الأول) استخراج رؤوس الكواكب الثوابت في العنكبوت Manuscript Reconstruction استخراج رؤوس الكواكب الثوابت في العنكبوت (al-Saghani, first way: from the star's longitude and latitude). The circle is the section of the sphere by the solstitial colure: ك ه م the axis (north pole م), ح ه ي the equator, arc ح ج = the greatest declination (23;35), so ج ه د is the ecliptic (ج the beginning of Capricorn, د of Cancer). Arc ج ر = the star's latitude (toward ح for a northern star), ر ط parallel to ج ه د is the trace of the star's circle of latitude; the red semicircle on ر ط is that circle turned into the plane, and arc ط ل = the distance of the star's degree from the solstice (here from Cancer). ل ب is perpendicular to ر ط, so ب is the foot of the star on the colure plane and ب ل its height above it. With the pole of projection ع (ه ع = 0.5), ب ع cuts ح ي at س; ب ف perpendicular to ب ع equal to ب ل, ع ف cuts the perpendicular at س in ن, and س ص perpendicular to ح ه, equal to س ن, is laid off toward ك (the star's degree lies between the beginning of Capricorn and the end of Gemini, with the beginning of Aries at ك): ص is the star's head on the rete. Example: longitude 45 deg (15 deg Taurus), latitude +20 deg. Asserted: ص coincides with the projection, from ع, of the star whose equatorial coordinates are computed by ecl_star_to_eq (RA 35.4 deg, dec 35.4 deg), placed on the rete with the beginning of Aries at ك and of Capricorn at ح. The manuscript's section (ms) reads 'ب س ع' and 'عمودي ب ف، س ن'; the transcription's 'ب ق' / 'ع ق' are slips for ب ف / ع ف. The small red dot on the manuscript's circle at the upper left has no letter and no role in the text; it is omitted. 2 construction checks pass",
+  "ms": [
+   "ms/77_0.jpg"
+  ]
+ },
+ {
+  "n": 78,
+  "group": "7",
+  "raw": "Fig. 78 f. 80v · PDF p. 173 طريق آخر في استخراج رؤوس الكواكب الثابتة بالتسطيح التام (بالميل ودرجة الممر) طريق آخر في استخراجها Manuscript Reconstruction طريق آخر في استخراجها: al-Saghani's second way to the star head, from the star's declination and its culminating degree (درجة الممر). The circle is again the section by the solstitial colure (ك ه م the axis with the north pole م, ح ه ي the equator, ح the side of Capricorn). Arc ح ر = the star's declination (toward م for a northern star); ر ط parallel to ح ي is the trace of its day circle, and the red semicircle on ر ط is that circle turned into the plane; ك ه م produced meets it at ج. Arc ج ل = the right ascension of the culminating degree counted from the equinox (مطالعه في الفلك المستقيم), taken toward ح because the culminating degree has southern declination. ل ب perpendicular to ر ط; ب ع cuts ح ي at س; ب ف perpendicular to ب ع equal to ب ل; ع ف cuts the perpendicular at س in ن; س ص perpendicular to ح ه equal to س ن, toward ك (culminating degree between the beginning of Capricorn and the end of Gemini, beginning of Aries at ك): ص is the head. Example: the star at longitude 333 deg, latitude +48 deg; ecl_star_to_eq gives dec 34.0 deg and RA 316.0 deg, so it culminates with 13;30 Aquarius and arc ج ل = 44.0 deg; ه ع = 0.5. Asserted: the culminating degree has that right ascension (ecl_to_eq), and ص is the projection from ع of the star, placed on the rete with Aries at ك and Capricorn at ح (the same point as the first way would give). In the manuscript the foot of ل (the text's ب) is lettered like د and س is unlettered; the transcription's 'ح ل' in the direction rule must be ج ل. 2 construction checks pass",
+  "ms": [
+   "ms/78_0.jpg"
+  ]
+ },
+ {
+  "n": 79,
+  "group": "8",
+  "raw": "Fig. 79 f. 82r · PDF p. 176 وجه الصفيحة السابعة ذات التسعة والخمسين في حق القمر صنعة حق القمر Manuscript Reconstruction حق القمر: the face of the seventh wheel (ذات التسعة والخمسين). The wheel ا ب ج د (centre ه) has 59 equal triangular teeth (diameter 59 of the 90 parts of the radius of the back, i.e. pitch radius 29.5 with module 1: one part of diameter per tooth, as for every wheel of the box, Fig. 80). Inside it a slightly smaller circle ح ط ك ل; the ring between them is cut into 59 cells by the lines of the teeth, and numbered in abjad from ا toward ب: 1 ... 30, then again 1 ... 29, which closes the round. (The cells are centred on the teeth; since 59 is odd, cell 30 then falls exactly on ج - the upper end of the diameter - and the round closes at ا between 29 and 1.) The diameters ح ك and ط ل; on them four equal circles م ر ع ف tangent to each other and to ح ط ك ل (centres at 0.586, radii 0.414 of the radius of ح ط ك ل). ر ف are erased (red, dashed) and م ع blackened with niello: they are the new-moon windows, two per revolution, since the wheel is advanced one tooth a day by the pinion of 7 on the pole (one turn of the pole = one week) and so turns once in 59 days = two months of 30 and 29 days. When م is under the round hole of the cover, cell 29 is under the square hole beside it (text). The manuscript leaves all four circles in outline and writes no numbers; the blackening and the numbering are added from the text. Teeth are drawn about the pitch circle (addendum 0.8, dedendum 0.95 parts); the text files them into the rim, which would put the tips on the 59-part circle - immaterial here. 6 construction checks pass",
+  "ms": [
+   "ms/79_0.jpg"
+  ]
+ },
+ {
+  "n": 80,
+  "group": "8",
+  "raw": "Fig. 80 f. 83v · PDF p. 179 صورة حق القمر مركّبة صنعة حق القمر Manuscript Reconstruction حق القمر مركّبًا: the assembled gear train on the back of the astrolabe. Radius of the back inside the ring = 90 parts; the eight wheels have 7, 10, 19, 24, 40, 48, 59, 59 triangular teeth and diameters of as many parts (module 1, equal tooth pitch pi parts), so every meshing pair stands at the sum of its pitch radii (asserted). Stack on the pole (centre of the back): the 10 (2nd) next to the mater, the 7 (1st) above it, both turning with the pole. 7 -> 59 (7th), to which the 19 (3rd) is soldered beneath; 19 -> the other 59 (8th), with the 24 (4th) soldered beneath it; 24 -> 48 (6th, the sun, lying under the 8th); 10 -> 40 (5th, the moon). Layers above the mater (plate thicknesses, from the axle lengths in the text): 4th, 6th: 1-2; 10, 3rd, 8th, 5th: 2-3; 7, 7th: 3-4. Drawn with the manuscript's own convention (its note, reproduced at the foot): black = in view, red = lying under another wheel (computed: an outline is red where it falls inside a wheel of a higher layer). Placement (parameters): pole of the 3rd/7th at 60 deg of the altitude scale (text) on the right, 33 parts from the centre; pole of the 4th/8th 38 parts from the centre (so the 8th clears the 10, as the text demands), at 126.2 deg; the sun wheel 36 parts from it at -110 deg (ends up left of the centre, as drawn); the moon wheel 25 parts from the centre at -12 deg (right, as drawn). Asserted: meshing distances; no collision between non-meshing wheels of the same layer; the axles of the 5th and 6th (carried through to the cover) clear all wheels above them; the tooth outlines of every meshing pair interleave without crossing. Periods (one turn of the pole = one week, the day circle of the cover being divided into seven; the 7 then passes one tooth a day): 7th wheel 59 days (= 30 + 29, its numbered ring, Fig. 79); moon wheel 40/10 = 4 turns of the pole = 28 days; 8th wheel 59*59/19 = 183.2 d; sun wheel x 48/24 = 366.4 days. Of the variants the text reports, 19/23/46/57 gives 59*57/19*46/23 = 354 days, as the text says; 26/19/49/56 gives 327.7 days, not the 359 (MS: 3?9) of the text; the short cut 4 on the moon wheel -> 52 gives 13*28 = 364 days (text: 360). Disagreements: the manuscript draws the small wheels far too large (its centre wheel is ~16 parts in radius), puts the 7th higher (~82 deg) and draws the pinion of 7 red (hidden) inside the 10, although the text threads the 7 above the 10; here the text's order is followed. The two words under ذات ١٩ and ذات ٢٤ in the manuscript are not legible and are omitted. 12 construction checks pass",
+  "ms": [
+   "ms/80_0.jpg"
+  ]
+ },
+ {
+  "n": 81,
+  "group": "8",
+  "raw": "Fig. 81 f. 85r · PDF p. 182 الصفيحة الكسوفية: عملها وصورة المفروغ منها عمل الصفيحة الكسوفية Manuscript Reconstruction الصفيحة الكسوفية (Utarid b. Muhammad's eclipse plate), first face. Right: the construction. Plate ا ب ج د, centre ه, diameters ا ج, ب د. Arcs ا ز and ب ح are each a sixth of the circle (ز at 120 deg, ح at 30 deg; the transcription's \"ى ج\" and \"ه ج\" are slips - with ح on the arc ج ب at 30 deg, as drawn, every claim of the text holds). The chord ج ز cuts ه ح at ط and ه ب at ك. The circle on ك tangent to ه ز (at ص) has radius R/(2 sqrt3); the equal circle on ط is tangent to ج ه, and the two touch at ي (asserted: dist ط to ج ه = radius, ك ط = 2 radii, ط on ه ح). ه م = ه ك on ه د, circle م equal to them; ه ط = ه م (asserted), so arcs about ه touch the circles ط, م on the inside (ن س, radius R(1/sqrt3 - 1/(2 sqrt3))) and on the outside (ع ف, radius R sqrt3/2). Arc ص ق ل about ه at the distance ه ص = R/2 runs from ص (120 deg) through ق (on ه ا) to ل, where it meets circle م (asserted: ل at 240 deg is on circle م); ص ق and ق ل are each divided into 12. Left: the finished face - circles ط, م blackened with niello and the space between them up to the arcs ن س, ع ف silvered (the manuscript writes مفضّضة there; the transcription's \"تقصص\" should read \"تفضض\"); circle ك named فلك الشمس; over the divisions of ص ق the hours of moonrise by day, over ق ل by night, numbered 1-12 continuously from ص to ق and again from ق to ل (the manuscript's small numerals are not legible enough to confirm the sense). 9 construction checks pass",
+  "ms": [
+   "ms/81_0.jpg"
+  ]
+ },
+ {
+  "n": 82,
+  "group": "8",
+  "raw": "Fig. 82 f. 86r · PDF p. 184 شبكة الصفيحة الكسوفية: عملها وصورتها مخرّقة عمل الصفيحة الكسوفية Manuscript Reconstruction الصفيحة الكسوفية: the rete (الشبكة) of the eclipse plate. Right: the construction, on a plate ا ب ج د equal to the first (R = 1). The circles on ك and م are repeated from the plate (Fig. 81). ه ز and ه ط are the two tangents from ه to circle ك (asserted tangent; they fall at 30 deg either side of ه ب, ص being the point of contact on ه ز). Arcs ز ح and ط ي are each a third of arc ب ز (= 10 deg; the manuscript drawing has nearly 20), and ه ح, ه ي are drawn. The central disc (الفلس) has for radius the chord of half of ز ح (chord 5 deg = 0.087). An arc about ه with the chord of 10 parts (of 360) cuts ه ز in the pointer of the first distance and ه ط in the pointer of the second (transcription; the manuscript text is ambiguous here, see report). ه ف on ه ج = chord 15: pointer of the moon's latitude. ا ل = chord 5: the semicircle on ه ل makes, with the semicircle ا ب ج, the ring (طوق) from which the pointers hang. ح ع = chord 7 on ه ح, and the arc ع ن about ه to ه ط: ع is the pointer of the hours of half the eclipse and of the مكث, ن that of the adjusted digits. ز س = chord 11 on ه ز: pointer of the hours of the beginning of the eclipse. From ص, 3 parts (chord 3) inward on ص ه and 3 more: two arcs about ه from circle ك toward ا down to the diameter ا ه ج - the arc of the pointer of the hours of moonrise (and of the مكث), whose tip is ص (asserted: the arc of radius ه ص touches circle ك at ص). Left: the rete cut out - the half ا ب ج pierced, leaving the ring, the node circle ك (فلك الجوزهر) hung from the ring at its nearest point, the moonrise arc hung from ك and resting on the diameter, the half disc of the pole with the two distance pointers, ف on the half-diameter ه ج, ع ن س hung from the ring; the half ا د ج left solid with circle م pierced (the window showing the waxing and waning of the moon). The manuscript puts ف on the right radius at about two thirds of it and the fals at ~0.13 R; here the text's chords are used. 4 construction checks pass",
+  "ms": [
+   "ms/82_0.jpg"
+  ]
+ },
+ {
+  "n": 83,
+  "group": "8",
+  "raw": "Fig. 83 f. 87v · PDF p. 187 الوجه الآخر من الصفيحة الكسوفية: عمله وصورة المفروغ منه عمل الصفيحة الكسوفية Manuscript Reconstruction الصفيحة الكسوفية: the other face of the plate (\"ثم نقلب الصفيحة الأولى على وجهها الآخر ...\") - \"وهذه صورتها وصورة المفروغ منها\"; the table (الجدول) below the drawings on the page is not redrawn. Same parameters as Fig. 81 (first face) and Fig. 82 (rete): R = 1, all radii from the text. Left: the construction - circle ا ب ج د directly behind the first face and equal to it, the diameters ا ه ج, ب ه د, and circle ك drawn \"على هيئة ما خططناها في الوجه الآخر وفي الشبكة\", named فلك القمر: centre on ه ب at ه ك = R/sqrt3, radius R/(2 sqrt3) (asserted identical to circle ك of Fig. 81 and of the rete Fig. 82; the manuscript has 0.54 R and 0.29-0.31 R). The manuscript writes no letters on it. Right: the finished face. Six circles about ه, red as drawn: the circle at the distance ه ك (0.5774), which cuts arc ر ك ح from the moon circle (ر at 61.04, ح at 118.96 deg; cos of the half-arc = 7/8, asserted), and the orbits (مدارات) of the rete's pointers, each at the pointer's distance from ه in Fig. 82: the first and second distance, chord 10 = 0.1743 (one orbit, asserted); ف, chord 15 = 0.2611; the moonrise / مكث pointer, tip at ص, R/2 (ص on circle ك, asserted); س, R - chord 11 = 0.8083; ع and ن, R - chord 7 = 0.8779 (one orbit, asserted); all distinct and inside the ring ا ل of the rete (asserted). The manuscript also has six red rings but evenly spaced (0.22, 0.44, 0.59, 0.70, 0.81, 0.94 R); only the one through ك (0.59) agrees with the text. Arc ر ك ح is divided into 12 and the two greater arcs are drawn inside the moon circle; the abjad numbers that go between them are left out (order not stated, end cells too narrow, and the manuscript does not draw the scale at all). The text blackens the moon circle except the scale; left white as in the drawing. Not drawn (not in the drawing): ط and م, a third of ك ح beyond ح and ر (128.61, 51.39 deg), and the arcs the pointers sweep between the two marks (rotation ر -> ط = 67.57 deg), divided by 12 and filled from the table. Inscriptions (read on a polar unwrapping of the page): مدار الأصابع المعدلة (outer band, right), مدار ساعات زمن الكسوف (over the top; \"زمن\" slightly uncertain), مدار ساعات بدو الكسوف (lower half), مدار عرض القمر (inner band, lower right), مدار مري البعد الأول (written radially at ~207 deg from the innermost ring, kept so here). Each is put on the ring the text gives its pointer (the manuscript writes زمن/بدو الكسوف on inner bands) on the same side as in the drawing; three of them are upside down in the manuscript (written by turning the page) and are set upright here. The moonrise orbit has no inscription in the drawing: its name, from the text, is in grey. Letters: ب ج د, ه (below the centre), ك (written above the centre of the moon circle), ر (right intersection, read as ر) as drawn; ح, hidden in the drawing under the inscription, is added from the text. The single ا standing midway between the two circles is taken as the ا of the finished plate (whose ب ج د are all present; the text puts ا on the left, \"في اليسار ... أعني في جهة نقطة ا\"); the right-hand letter is ج (dotless). 11 construction checks pass",
+  "ms": [
+   "ms/83_0.jpg"
+  ]
+ },
+ {
+  "n": 84,
+  "group": "8",
+  "raw": "Fig. 84 f. 88v · PDF p. 189 صفيحة الآلة المهيأة لمعرفة رؤية الأهلة (عامة لجميع العروض) عمل الآلة المهيأة لمعرفة رؤية الأهلة Manuscript Reconstruction the plate (general for all latitudes) of the instrument for the visibility of the crescent (after Abu Dawud al-Samarqandi). Circle ا ب ج د (R = 1) with diameters ا ه ج, ب ه د. Arc د ز = (90 - eps) - 5 (eps = 23;35, the moon's greatest latitude 5); ب ز cuts ا ج in ك, and the circle about ه through ك, ح ط ك م, is the equator (مدار الحمل), radius tan((85 - eps)/2) = 0.594. This circle serves at the same time as the meridian section of the sphere with ك its south pole (the pole of projection; م for a southern instrument). ط is where ب ك ز meets it again (asserted: arc ح ط = eps + 5); arc ط ى = 5 back toward ح puts ى at the winter solstice of the section, ك ى meets ه ب in ل, and the circle through ك ل م is the ecliptic (asserted equal to the stereographic ecliptic, and to the horizon of latitude 90 - eps, whose diameter in the sphere is ى ه ن). Arc م س = eps; ك س meets ه ب in ص, the pole of the ecliptic = the \"zenith\" of the horizon ك ل م. ع, the centre of the circle through م ص ك, lies on ه د produced at ه ع = ه ك cot eps; the line through ع parallel to ا ج (red) is the line of centres of the azimuth circles of ك ل م (asserted for the circles of ecliptic longitude through the sign boundaries). Added lightly in red, as described but not drawn in the manuscript: the fifth almucantar of altitude and the fifth of depression of ك ل م (ecliptic latitude +-5; the fifth of depression touches ا ب ج د at ب, which is why the outer circle is the day-circle of declination -(eps + 5)), the circle م ص ك (the azimuth of the equinoxes, centre ع), and the azimuth circles through the other sign boundaries, drawn from the fifth almucantar of altitude out to ا ب ج د (inside it they would all crowd into ص). Text vs drawing: the edition's \"ببعد ه ل\" for the circle ح ط ك م is a slip - the manuscript (f.88r) reads ه ك; ط is not defined in the text (taken, as drawn, where ب ك ز meets the circle). The drawing has no ب or ز (added from the text). It puts ع inside the plate (at about 0.7 R) and draws arc م س of about 37 deg; the exact construction puts ع at 1.36 R below ه, outside ا ب ج د, so the figure is taller than the page's. 18 construction checks pass",
+  "ms": [
+   "ms/84_0.jpg"
+  ]
+ },
+ {
+  "n": 85,
+  "group": "8",
+  "raw": "Fig. 85 f. 89r · PDF p. 190 شبكة الآلة المهيأة لمعرفة رؤية الأهلة عمل الآلة المهيأة لمعرفة رؤية الأهلة Manuscript Reconstruction the rete (الشبكة) of the instrument for the visibility of the crescent. On a second plate: circle ا ب ج د equal to that of the plate (R = 1) with its diameters; about ه the circle ى ك ح م of the same size as on the plate (the equator, r = 0.594, Fig. 84); circle ر ط about ه with radius the distance, on the plate, from ه to where the fifth almucantar of altitude of ك ل م meets ه د (asserted = r^2/R = radius of the day-circle of declination eps + 5, so ر ط and ا ب ج د bound every possible place of the moon); a small circle about ه, the فلس. Arc ك ل = the latitude, here 41 deg (the drawing's arc ك ل measures about 41 deg); the horizon is found as on the astrolabe - ك ل and its opposite radius, projected from ك on ب د, give its meridian ends - (asserted equal to the stereographic horizon, and passing through ك and the west point م). Its western part between ا ب ج د and ر ط is the arc ع م س; the almucantar of depression 10 deg of the same horizon (asserted likewise from its meridian ends) cuts off the arc ص ف. The piece ع ص ف س (tinted) is all that is kept of this plate; it hangs from the فلس by two bars at س and ف (as drawn: the bar to ف leaves the فلس on the far side). Construction circles red, the kept parts black, as in the manuscript; the فلس radius (0.15 R) is taken from the drawing, which is schematic in its radii (there ر ط ~ 0.52 R, equator ~ 0.76 R, whereas the construction gives 0.353 R and 0.594 R). Letters follow the drawing: ر ط (the edition's ز ط), ح at the top of the equator circle (the text's ى ك ح م; ى is not marked), ج at the right end. The grey legend along the piece stands for the latitude the text says to write on the horizon. 9 construction checks pass",
+  "ms": [
+   "ms/85_0.jpg"
+  ]
+ }
+]

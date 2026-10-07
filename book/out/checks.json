@@ -1,0 +1,245 @@
+{
+ "1": [
+  [
+   "Capricorn begins on the south point",
+   true
+  ],
+  [
+   "Aries begins on the east point",
+   true
+  ],
+  [
+   "12 digits fall at 45° (shadow = gnomon)",
+   true
+  ]
+ ],
+ "2": [
+  [
+   "apex bisects the upper side",
+   true
+  ]
+ ],
+ "3": [
+  [
+   "arc ا ز is 72 parts, one fifth of 360",
+   true
+  ],
+  [
+   "ج, ز's ray and د: د lies on the ray from the centre through ز",
+   true
+  ]
+ ],
+ "4": [
+  [
+   "the quadrant is divided into 90 equal parts",
+   true
+  ]
+ ],
+ "5": [
+  [
+   "ه ح = radius of the equator = R tan(45 − ε/2) (0.654589 ≈ 0.654589)",
+   true
+  ],
+  [
+   "ه ل = radius of Cancer = R tan²(45 − ε/2) (0.428487 ≈ 0.428487)",
+   true
+  ]
+ ],
+ "6": [
+  [
+   "ه م = radius of the day-circle of mid-Taurus (0.489398 ≈ 0.489398)",
+   true
+  ],
+  [
+   "ه ل = radius of the day-circle of the beginning of Scorpio (0.801739 ≈ 0.801739)",
+   true
+  ]
+ ],
+ "7": [
+  [
+   "centre ع of the horizon = midpoint of س ل (1.00798 ≈ 1.00798)",
+   true
+  ],
+  [
+   "radius of the horizon (1.20188 ≈ 1.20188)",
+   true
+  ],
+  [
+   "centre ق of the 6th almucantar (0.845675 ≈ 0.845675)",
+   true
+  ],
+  [
+   "radius of the 6th almucantar (1.00283 ≈ 1.00283)",
+   true
+  ]
+ ],
+ "8": [
+  [
+   "hour line 6 is the lower meridian (midnight)",
+   true
+  ],
+  [
+   "hour lines 0 and 12 lie on the horizon",
+   true
+  ]
+ ],
+ "9": [
+  [
+   "the alidade through the centre at RA 302.21° meets the ecliptic at λ=300° and λ=120°",
+   true
+  ],
+  [
+   "the alidade through the centre at RA 332.12° meets the ecliptic at λ=330° and λ=150°",
+   true
+  ]
+ ],
+ "10": [
+  [
+   "ه س = radius of the northern star's day-circle (0.458348 ≈ 0.458348)",
+   true
+  ],
+  [
+   "ه ع = radius of the southern star's day-circle (0.853078 ≈ 0.853078)",
+   true
+  ]
+ ],
+ "11": [
+  [
+   "ه ع = distance of the northern star's head (0.458348 ≈ 0.458348)",
+   true
+  ],
+  [
+   "ه ف = distance of the southern star's head (0.853078 ≈ 0.853078)",
+   true
+  ]
+ ],
+ "12": [
+  [
+   "ص is the zenith (0.355413 ≈ 0.355413)",
+   true
+  ],
+  [
+   "ق is the centre of the azimuth circle (0.450627 ≈ 0.450627)",
+   true
+  ]
+ ],
+ "13": [
+  [
+   "ص ب produced meets the line of centres at the same centre ق (0.450627 ≈ 0.450627)",
+   true
+  ]
+ ],
+ "14": [
+  [
+   "ب lies on the azimuth circle whose centre is on the line of centres",
+   true
+  ]
+ ],
+ "15": [
+  [
+   "ص (pole of the ecliptic) lies at the zenith of latitude 90−ε (0.136651 ≈ 0.136651)",
+   true
+  ],
+  [
+   "the head of the star (λ=200°, β=6°) lies on its circle of longitude",
+   true
+  ],
+  [
+   "its ecliptic point lies on the ecliptic",
+   true
+  ],
+  [
+   "the head of the star (λ=97°, β=-10°) lies on its circle of longitude",
+   true
+  ],
+  [
+   "its ecliptic point lies on the ecliptic",
+   true
+  ]
+ ],
+ "16": [
+  [
+   "ك ا meets the meridian at the top of the ecliptic (ح) (1 ≈ 1)",
+   true
+  ],
+  [
+   "ك ب meets the meridian at the bottom of the ecliptic (ر) (-0.428487 ≈ -0.428487)",
+   true
+  ],
+  [
+   "radius of the 10th almucantar of depression (0.867822 ≈ 0.867822)",
+   true
+  ],
+  [
+   "its centre (0.352556 ≈ 0.352556)",
+   true
+  ]
+ ],
+ "17": [
+  [
+   "the ecliptic touches the rim at the head of Capricorn",
+   true
+  ],
+  [
+   "12 star heads placed by declination and right ascension for 1310 Alexander",
+   true
+  ]
+ ],
+ "18": [],
+ "19": [
+  [
+   "the rim is the circle of Cancer (1 ≈ 1)",
+   true
+  ],
+  [
+   "the zenith lies between the circles of Cancer and Aries",
+   true
+  ]
+ ],
+ "20": [
+  [
+   "the ecliptic of the southern rete touches the rim (circle of Cancer)",
+   true
+  ],
+  [
+   "8 stars placed by the southern projection",
+   true
+  ]
+ ],
+ "21": [
+  [
+   "the 3rd equal-hour line passes 45° of hour angle after sunset on every day-circle",
+   true
+  ]
+ ],
+ "22": [
+  [
+   "ي is the south point of the horizon (2.01462 ≈ 2.01462)",
+   true
+  ],
+  [
+   "س, the midpoint of ص ي, is the centre of the horizon (0.900965 ≈ 0.900965)",
+   true
+  ],
+  [
+   "the centre س falls between ط and د (latitude 36°)",
+   true
+  ]
+ ],
+ "23": [
+  [
+   "circle 1 cuts the equator at two opposite points (15°)",
+   true
+  ],
+  [
+   "circle 4 cuts the equator at two opposite points (60°)",
+   true
+  ]
+ ],
+ "24": [
+  [
+   "every horizon passes through its origin on the equator",
+   true
+  ]
+ ]
+}
