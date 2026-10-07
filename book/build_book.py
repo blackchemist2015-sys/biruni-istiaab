@@ -1,5 +1,10 @@
 """Assemble the book (Markdown) and convert it to Word with pandoc."""
 import json, os, re, subprocess, sys, importlib.util, glob
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from eqconv import convert_markdown, convert_math, leftovers
+from symbols import where_line, symbols_chapter
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "text"))
+from refs_figs import REFS
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(HERE, "out")
@@ -60,11 +65,19 @@ def figure_section(FT, checks):
                 cap = "صورة الشكل في المخطوط" + (f" ({ar(k + 1)})" if len(inf["ms"]) > 1 else "")
                 L += [f"![{cap}](../figures-atlas/{msimg}){{width={ft.get('msw', '55%')}}}", ""]
             L += [f"![إعادة الرسم بالحساب](out/fig/{n:02d}.png){{width={ft.get('w', '85%')}}}", ""]
-            L += ["#### الشرح", ""] + [p.strip() for p in ft["sharh"].strip().split("\n")] + [""]
+            sh = [p.strip() for p in ft["sharh"].strip().split("\n")]
+            if n in REFS:
+                k = max(i for i, x in enumerate(sh) if x and not x.startswith("|"))
+                sh[k] = sh[k] + "^[" + REFS[n] + "]"
+            L += ["#### الشرح", ""] + sh + [""]
             if ft.get("eq"):
                 L += ["#### المعادلات", ""]
-                for e in ft["eq"]:
+                conv = [convert_math(e) for e in ft["eq"]]
+                for e in conv:
                     L += [f"$${e}$$", ""]
+                w = where_line([re.sub(r"\\text\{[^{}]*\}", " ", e) for e in conv])
+                if w:
+                    L += ["حيث:", ""] + [f"- {x}" for x in w] + [""]
             ch = checks.get(str(n), [])
             if ch:
                 ok = sum(1 for _, o in ch if o)
@@ -93,6 +106,8 @@ def main():
     parts = []
     for f in ["00_front.md", "01_biruni.md", "02_kitab.md", "03_tasatih.md", "04_nusakh.md"]:
         parts.append(open(os.path.join(HERE, "text", f)).read())
+        if f == "00_front.md":
+            parts.append(symbols_chapter())
     parts.append(figure_section(FT, checks))
     for f in ["06_tahqiq.md", "07_malahiq.md"]:
         p = os.path.join(HERE, "text", f)
@@ -102,6 +117,11 @@ def main():
     parts.append(open(os.path.join(HERE, "text", "08_maraji.md")).read())
     md = "\n\n".join(parts)
     md = md.replace("](../out/fig/", "](out/fig/")
+    md = convert_markdown(md)
+    md = re.sub(r"\\widehat\{\\overline\{(\\mathrm\{[A-Z]+\})\}\}", r"\\widehat{\1}", md)
+    bad = leftovers(md)
+    if bad:
+        print("WARNING: Arabic left in math:", bad[:5])
     src = os.path.join(OUT, "book.md")
     open(src, "w").write(md)
     meta = os.path.join(OUT, "meta.yaml")
