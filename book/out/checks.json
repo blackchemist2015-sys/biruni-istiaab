@@ -481,5 +481,271 @@
    "ل (head of Aquarius) is laid off along ه ح at its declination (0.970849 ≈ 0.970849)",
    true
   ]
+ ],
+ "52": [
+  [
+   "the ellipse passes through the image of the zenith (cos φ on ه د)",
+   true
+  ],
+  [
+   "minor semi-axis = cos i = cos φ · cos A",
+   true
+  ],
+  [
+   "the major axis lies along the line of nodes, deviation from the meridian = arccos(sin A / sin i)",
+   true
+  ]
+ ],
+ "53": [
+  [
+   "ز ح = cos i (minor semi-axis) (0.760227 ≈ 0.760227)",
+   true
+  ],
+  [
+   "arc ز ل = the deviation (58.2332 ≈ 58.2332)",
+   true
+  ]
+ ],
+ "54": [
+  [
+   "ه ح = √(ه ا² − ه ج²) (0.8 ≈ 0.8)",
+   true
+  ],
+  [
+   "for every point ن of the curve ح ن + ن ز = ا ب",
+   true
+  ]
+ ],
+ "55": [
+  [
+   "from ك the radius of Cancer is tan(45° − ε/2) (0.654589 ≈ 0.654589)",
+   true
+  ]
+ ],
+ "56": [
+  [
+   "the horizon (φ=36°, ه ع=0.5) projects as a hyperbola, the 52° almucantar as an ellipse",
+   true
+  ]
+ ],
+ "57": [
+  [
+   "southern figure: kinds decided by the plane through ع",
+   true
+  ],
+  [
+   "the almucantar h = arcsin(ه ع · sin φ) = 17.1° has its diameter through ع",
+   true
+  ]
+ ],
+ "58": [
+  [
+   "the angle ز ع ه is acute and the section is an ellipse",
+   true
+  ],
+  [
+   "د ف ∥ ج ل gives ل ف = ص ز · ص ط / ع ص",
+   true
+  ],
+  [
+   "و ش is the latus rectum 2b²/a of the exact image (1.19611 ≈ 1.19611)",
+   true
+  ],
+  [
+   "ب ص is half the east-west diameter (0.756218 ≈ 0.756218)",
+   true
+  ]
+ ],
+ "59": [
+  [
+   "الأولى: ف is the exact image of the circle point over ا",
+   true
+  ],
+  [
+   "الثانية: ف is the exact image of the circle point over ا",
+   true
+  ],
+  [
+   "both images are ellipses",
+   true
+  ]
+ ],
+ "60": [
+  [
+   "و س is the latus rectum of the parabola (2 / sin φ) (2.2252 ≈ 2.2252)",
+   true
+  ],
+  [
+   "ز ع is perpendicular to the axis (the pole at the foot of the perpendicular from ز)",
+   true
+  ]
+ ],
+ "61": [
+  [
+   "ص satisfies y² = p·x and lies on the circle on به",
+   true
+  ],
+  [
+   "ز satisfies y² = p·x and lies on the circle on بم",
+   true
+  ]
+ ],
+ "62": [
+  [
+   "الأولى: ف is the exact image of the circle point over ا",
+   true
+  ],
+  [
+   "الثانية: ف is the exact image of the circle point over ا",
+   true
+  ],
+  [
+   "both images are hyperbolas",
+   true
+  ]
+ ],
+ "63": [
+  [
+   "ص lies between ز and ط (hyperbola) and ع ص ⊥ ع ه",
+   true
+  ],
+  [
+   "و س = س ب · ص ز · ص ط / ع ص² (Apollonius I.12)",
+   true
+  ]
+ ],
+ "64": [
+  [
+   "ب د² = ب ا · ب ج = b²",
+   true
+  ],
+  [
+   "س lies on the hyperbola (ا ح/a)² − (ح س/b)² = 1",
+   true
+  ]
+ ],
+ "65": [
+  [
+   "ر ه is parallel to ب ا, so the head angle equals the centre angle (parabola setting)",
+   true
+  ]
+ ],
+ "66": [
+  [
+   "ب ج² = ا ب · ب د (ج ب the altitude of the right triangle)",
+   true
+  ]
+ ],
+ "67": [
+  [
+   "ب ر = 2L²/a (0.98 ≈ 0.98)",
+   true
+  ],
+  [
+   "the angles found agree with the cone of the compass (centre 44.47°, head 31.46°)",
+   true
+  ]
+ ],
+ "68": [
+  [
+   "ه ى = ز ه · t²",
+   true
+  ],
+  [
+   "ه ك = t · ز ه",
+   true
+  ],
+  [
+   "cos(س ز م) is the root of c² + t c − 1 = 0 (α = 44.81°)",
+   true
+  ]
+ ],
+ "69": [
+  [
+   "ب ج² = ا ب · ب د (ج ب the altitude of the right triangle)",
+   true
+  ]
+ ],
+ "70": [
+  [
+   "ب ك · ط ك = ج ح² = 4L² (corrected radius)",
+   true
+  ]
+ ],
+ "71": [
+  [
+   "الأولى: ع lies on ط ل produced (ه ع = sin h / sin φ = 0.61)",
+   true
+  ],
+  [
+   "الأولى: the image of the almucantar is the straight line through س",
+   true
+  ],
+  [
+   "الثانية: ع lies on ط ل produced (ه ع = sin h / sin φ = 1.32)",
+   true
+  ],
+  [
+   "الثانية: the image of the almucantar is the straight line through س",
+   true
+  ]
+ ],
+ "72": [
+  [
+   "ل ف equals the height of the chord's point in the equator plane",
+   true
+  ],
+  [
+   "2 arcsin(م س / 2) is the inclination of the azimuth circle to the equator (77.9°)",
+   true
+  ]
+ ],
+ "73": [
+  [
+   "the angle ل ع ه is acute: the prime vertical is an ellipse",
+   true
+  ]
+ ],
+ "74": [
+  [
+   "الأولى (الربع الشرقي الجنوبي): the angle at ع gives a ellipse",
+   true
+  ],
+  [
+   "الثانية (الربع الغربي الجنوبي): the angle at ع gives a ellipse",
+   true
+  ],
+  [
+   "node arc ك س = 23.0°, ميل السمت = 32.1° (latitude 30°, 78° from the south point)",
+   true
+  ]
+ ],
+ "75": [
+  [
+   "الأولى: the angle at ع gives a parabola",
+   true
+  ],
+  [
+   "الثانية: the angle at ع gives a parabola",
+   true
+  ]
+ ],
+ "76": [
+  [
+   "الأولى: the angle at ع gives a hyperbola",
+   true
+  ]
+ ],
+ "77": [
+  [
+   "ص is the projection from ع of the star (the head on the rete)",
+   true
+  ]
+ ],
+ "78": [
+  [
+   "ص is the projection from ع of the star (the same head as the first way)",
+   true
+  ]
  ]
 }
