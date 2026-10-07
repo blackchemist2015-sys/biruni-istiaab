@@ -241,5 +241,195 @@
    "every horizon passes through its origin on the equator",
    true
   ]
+ ],
+ "25": [
+  [
+   "the line from 30° cuts ه ا at the sine of 30°",
+   true
+  ]
+ ],
+ "26": [
+  [
+   "the sixth seasonal hour coincides with the noon line (opposite quadrant)",
+   true
+  ]
+ ],
+ "27": [
+  [
+   "the sixth hour line is the noon line: altitude 90 − φ + δ on every day-circle",
+   true
+  ]
+ ],
+ "28": [
+  [
+   "arc س ب equals the hour angle from sunrise (equinox)",
+   true
+  ],
+  [
+   "arc ط ك is the half day-arc (δ=-20°)",
+   true
+  ],
+  [
+   "arc ط س is the hour angle of the altitude 25° (δ=-20°)",
+   true
+  ],
+  [
+   "arc ط ك is the half day-arc (δ=20°)",
+   true
+  ],
+  [
+   "arc ط س is the hour angle of the altitude 40° (δ=20°)",
+   true
+  ]
+ ],
+ "29": [
+  [
+   "ال = دا · tan 15°",
+   true
+  ],
+  [
+   "اس = دا · tan 45°",
+   true
+  ]
+ ],
+ "30": [
+  [
+   "ز is the middle of the quadrant ج د, so the square is 12 by 12",
+   true
+  ]
+ ],
+ "31": [
+  [
+   "المطبل: each sign lies outside the equator exactly when it is listed outside",
+   true
+  ]
+ ],
+ "33": [
+  [
+   "الآسي: each sign lies outside the equator exactly when it is listed outside",
+   true
+  ]
+ ],
+ "34": [
+  [
+   "المسرطن: each sign lies outside the equator exactly when it is listed outside",
+   true
+  ]
+ ],
+ "35": [
+  [
+   "الثوري: each sign lies outside the equator exactly when it is listed outside",
+   true
+  ],
+  [
+   "البوري: each sign lies outside the equator exactly when it is listed outside",
+   true
+  ],
+  [
+   "الباطي: each sign lies outside the equator exactly when it is listed outside",
+   true
+  ],
+  [
+   "الصدفي (؟): each sign lies outside the equator exactly when it is listed outside",
+   true
+  ],
+  [
+   "السلحفي: each sign lies outside the equator exactly when it is listed outside",
+   true
+  ],
+  [
+   "الجاموسي: each sign lies outside the equator exactly when it is listed outside",
+   true
+  ]
+ ],
+ "32": [
+  [
+   "the two horizons cut each other where the equator meets the east-west line",
+   true
+  ]
+ ],
+ "36": [
+  [
+   "ه ح = Capricorn of the first ruler = tan(45° + ε/2) (1.52768 ≈ 1.52768)",
+   true
+  ],
+  [
+   "ه ط = Cancer of the first ruler = tan(45° − ε/2) (0.654589 ≈ 0.654589)",
+   true
+  ],
+  [
+   "ه م = equator of the second ruler = tan²(45° − ε/2) (0.428487 ≈ 0.428487)",
+   true
+  ]
+ ],
+ "37": [
+  [
+   "the quarters join: Aries on the first equator",
+   true
+  ],
+  [
+   "at the solstices the first ruler's Cancer meets the second ruler's Capricorn",
+   true
+  ],
+  [
+   "at Libra both second-ruler arcs meet on the second equator",
+   true
+  ]
+ ],
+ "38": [
+  [
+   "ruler 1: northern and southern horizons cut each other on its equator",
+   true
+  ],
+  [
+   "ruler 2: northern and southern horizons cut each other on its equator",
+   true
+  ],
+  [
+   "ruler 1: northern and southern horizons cut each other on its equator",
+   true
+  ],
+  [
+   "ruler 2: northern and southern horizons cut each other on its equator",
+   true
+  ]
+ ],
+ "39": [
+  [
+   "both horizons pass through the east and west points",
+   true
+  ]
+ ],
+ "40": [
+  [
+   "horizon 21° runs from the north point to the west point",
+   true
+  ],
+  [
+   "horizon 33° runs from the north point to the west point",
+   true
+  ]
+ ],
+ "41": [
+  [
+   "Capricorn and Sagittarius (equal declination) fall at the same distance on the two halves",
+   true
+  ]
+ ],
+ "42": [
+  [
+   "the two halves are symmetric: equal declinations at equal distances",
+   true
+  ]
+ ],
+ "43": [
+  [
+   "quarter 1 passes through both ends",
+   true
+  ],
+  [
+   "quarter 2 passes through both ends",
+   true
+  ]
  ]
 }
